@@ -11,7 +11,7 @@ First, make sure you know your due date and contact your unit's grants administr
 | Session | Due Date | 
 | ------------- | ------------- |
 | [Orientation and Planning](Timeline.md)  | 
-| [Candidate Introduction] |  | 
+| [Candidate Introduction](Candidate.md) |  | 
 | [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | | 
 | [Aims Page](Aims.md) | | 
 | [Research Strategy](Research_Stragegy.md)| |
