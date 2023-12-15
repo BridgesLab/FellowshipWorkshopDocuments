@@ -21,7 +21,7 @@ We will host workshops every other week with a brief faculty talk and peer revie
 | [Orientation and Planning](Timeline.md)  | January 8th |
 | [Candidate Introduction](Candidate.md) and [Budget](Budget.md)| January 22nd | 
 | [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | February 5th | 
-| [Aims Page](Aims.md) |  February 19th| 
+| [Aims Page and Abstract](Aims.md) |  February 19th| 
 | [Supporting Documentation](Supporting_Documents) | March 4th |
 | [Research Strategy](Research_Stragegy.md)| March 18th |
 
