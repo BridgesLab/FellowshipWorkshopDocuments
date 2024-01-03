@@ -33,6 +33,6 @@ These materials are free for anyone to use without attribution and are provided 
 
 * Program Announcement for [NIH NRSA F31](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html).
 * Program Announcement for [NIH NRSA F31 - Diversity](https://grants.nih.gov/grants/guide/pa-files/PA-23-271.html).
-* Arjun Raj's excellent ["So you want to apply for a PhD fellowship?"](https://docs.google.com/document/d/1WTMW3LZl1ifpFE1ddH1lvfijmmMsFwZggwsuQcotV_A/)edit.
+* Arjun Raj's excellent ["So you want to apply for a PhD fellowship?"](https://docs.google.com/document/d/1WTMW3LZl1ifpFE1ddH1lvfijmmMsFwZggwsuQcotV_A/edit).
 
 
