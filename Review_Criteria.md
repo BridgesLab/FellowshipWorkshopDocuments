@@ -27,6 +27,9 @@
 | Is there appropriate institutional commitment to fostering the candidate’s mentored training? | [Sponsor Statement](Sponsor_Statement.md) | 
 
 ## For clinical trials only
+
+| Question  | Where to Put the Answer |
+| ------------- | ------------- |
 | Is there evidence of a match between the research and clinical interests (if applicable) of the candidate and the sponsor(s)? Do(es) the sponsor(s) demonstrate an understanding of the candidate’s training needs as well as the ability and commitment to assist in meeting these needs? | [Candidate Introduction](Candidate.md), [Sponsor Statement](Sponsor_Statement.md) |
 | If the applicant is proposing to gain experience in a clinical trial as part of his or her research training, is there evidence of the appropriate expertise, experience, resources, and ability on the part of the sponsor(s) to guide the applicant during the clinical trial research experience? | [Training Plan](Training_Plan.md), [Research Plan](Research_Strategy.md) |
 | If proposed, will the clinical trial experience contribute to the proposed project and/or the applicant’s research training? | [Candidate Introduction](Candidate.md), [Training Plan](Training_Plan.md), [Research Plan](Research_Strategy.md)|
