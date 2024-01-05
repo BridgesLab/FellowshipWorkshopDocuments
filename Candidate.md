@@ -13,4 +13,8 @@
 
 ## Suggestions and Ideas
 
+![Puzzle](https://en.wikipedia.org/wiki/Jigsaw_puzzle#/media/File:Jigsaw_puzzle_01_by_Scouten.jpg)
+
+Think of the grant as a partially complete puzzle.  First you want to describe what pieces are in place.  This is who you are as a candidate and shoule be in the introduction.  Then there should be a clear description of what *you* think the puzzle will look like when its complete.  This is you as a trianed scientist after this training is complete.  The missing pieces should be what goes in your training plan, and should be obvious from the descriptions of you now, and what you hope to become.
+
 ## Resources
