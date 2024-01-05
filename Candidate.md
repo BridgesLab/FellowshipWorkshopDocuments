@@ -15,8 +15,6 @@
 
 ![Puzzle](https://upload.wikimedia.org/wikipedia/commons/6/66/Jigsaw_puzzle_01_by_Scouten.jpg)
 
-<a title="Scouten, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Jigsaw_puzzle_01_by_Scouten.jpg"><img width="512" alt="Jigsaw puzzle 01 by Scouten" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jigsaw_puzzle_01_by_Scouten.jpg/512px-Jigsaw_puzzle_01_by_Scouten.jpg"></a>
-
 Think of the grant as a partially complete puzzle.  First you want to describe what pieces are in place.  This is who you are as a candidate and shoule be in the introduction.  Then there should be a clear description of what *you* think the puzzle will look like when its complete.  This is you as a trianed scientist after this training is complete.  The missing pieces should be what goes in your training plan, and should be obvious from the descriptions of you now, and what you hope to become.
 
 ## Resources
