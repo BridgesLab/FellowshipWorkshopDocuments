@@ -28,13 +28,13 @@ You will to write several sections that will be compiled into the final grant.  
 | Project Summary/Abstract| 30 lines of text | |
 | Project Narrative	| Three sentences | | 
 | Introduction to Resubmission or Revision Application (when applicable) | 1 page | Only if revising | 
-| Applicant's Background and Goals for Fellowship Training | 6 pages | Includes Research Experience, Goals, and Activities |
-| Specific Aims	| 1 page | | 
-| Research Strategy	| 6 pages | | 
+| [Applicant's Background](Candidate.md) and [Goals for Fellowship Training](Training_Plan.md) | 6 pages | Includes Research Experience, Goals, and Activities |
+| [Specific Aims](Aims.md)	| 1 page | | 
+| [Research Strategy](Research_Plan.md)	| 6 pages | | 
 | Respective Contributions	| 1 page | | 
 | Selection of Sponsor and Institution	| 1 page | | 
 | Training in the Responsible Conduct of Research	| | 
-| Sponsor and Co-Sponsor Statements	| 6 pages | | 
+| [Sponsor and Co-Sponsor Statements](Sponsor_Statement.md)	| 6 pages | | 
 | Letters of Support from Collaborators, Contributors, and Consultants	 | | 
 | Description of Institutional Environment and Commitment to Training | 2 pages | 
 | Biographical Sketches | 5 pages | Candidate and all key personnel |  	
