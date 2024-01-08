@@ -23,10 +23,10 @@ While our focus is on NRSA F31 proposals there are many other fellowhsips that s
 You will to write several sections that will be compiled into the final grant.  Reach out to your grants administrator and they can provide you with a checklist.  The component and their lenghts can be found here: https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/page-limits.htm#train and below.
 
 
-|Section | Length | Notes |
-| ------------- | ------------- |
+| Section | Length | Notes |
+| ------------- | ------------- | ------|
 | Project Summary/Abstract| 30 lines of text | |
-| Project Narrative	| Three sentences || 
+| Project Narrative	| Three sentences | | 
 | Introduction to Resubmission or Revision Application (when applicable) | 1 page | Only if revising | 
 | Applicant's Background and Goals for Fellowship Training | 6 pages | Includes Research Experience, Goals, and Activities |
 | Specific Aims	| 1 page | | 
