@@ -4,7 +4,7 @@ This session will serve as an introduction and planning section, as well as a pa
 
 ## Planning Worksheet
 
-Please download and fill out this [worksheet](Documents/Planning.docx) before the session and answer all these questions to the best of your ability.
+Please download and fill out this [worksheet](Documents/Planning_Worksheet.docx) before the session and answer all these questions to the best of your ability.
 
 ## Which Fellowship Should I Apply For?
 
