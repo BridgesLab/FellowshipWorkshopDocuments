@@ -12,7 +12,7 @@ We will host workshops every other week with a brief faculty talk and peer revie
 
 * **Before the meeting**: First complete the worksheet for each week, then using that information write drafts of the relevant sections.  Upload these by Friday before the meeting.
 * **During the workshops**: There will be a faculty-led mini-lecture on the topic, followed by peer review of each participant's documents (and food).
-* **After the workshops**: Revise your documents based on the discussions
+* **After the workshops**: Revise your documents based on the discussions.
 
 ## Schedule
 
