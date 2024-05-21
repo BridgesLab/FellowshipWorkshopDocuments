@@ -2,7 +2,7 @@
 
 Start by downloading the [Candidate Information](Documents/Candidate_Worksheet.docx) worksheet and answering those questions.  You may need to set up a meeting to get some opinions from your mentors.
 
-## Review Criteria
+## Review Criteria (NRSA)
 
 * Are the candidate's academic record and research experience of high quality? 
 * Does the candidate have the potential to develop into an independent and productive researcher? 
@@ -12,8 +12,23 @@ Start by downloading the [Candidate Information](Documents/Candidate_Worksheet.d
 * (For clinical training) Is there evidence of a match between the research and clinical interests (if applicable) of the candidate and the sponsor(s)? Do(es) the sponsor(s) demonstrate an understanding of the candidate’s training needs as well as the ability and commitment to assist in meeting these needs? 
 * (For clinical training) If proposed, will the clinical trial experience contribute to the proposed project and/or the applicant’s research training? 
 
+## Review Criteria - [K99/R00](https://grants.nih.gov/grants/guide/pa-files/PA-24-193.html#_Section%20V.%20Application%20Review%20Information)
+
+* Based on the candidate’s prior research and training experience, track record, referee’s evaluations, and the quality and originality of prior research and the current application, what is the candidate’s potential to become a highly successful, independent investigator who will contribute significantly to his/her chosen field of biomedical, behavioral, or clinical related research? 
+* Considering the years of postdoctoral research experience to date, what is the candidate’s record of research productivity, including the quality of peer-reviewed scientific publications? 
+* What is the quality of the candidate's pre- and postdoctoral research training, with respect to development of appropriate scientific and technical expertise? 
+* Given the candidate’s prior training, proposed career development plan, and the referees’ evaluations, is it reasonable to expect that the candidate will be able to achieve an independent, tenure-track or equivalent faculty position within the time period requested for the K99 phase of this award?
+* Does the candidate have the potential to organize, manage, and implement the proposed clinical trial, feasibility or ancillary study?
+* Does the candidate have training (or plans to receive training) in data management and statistics including those relevant to clinical trials?
+
+## Review Criteria - [K23](https://grants.nih.gov/grants/guide/pa-files/PA-24-185.html#_Section%20V.%20Application%20Review%20Information)
 
 
+* Does the candidate have the potential to develop as an independent and productive researcher? 
+* Are the candidate's prior training and research experience appropriate for this award? 
+* Is the candidate’s academic, clinical (if relevant), and research record of high quality? 
+* Is there evidence of the candidate’s commitment to meeting the program objectives to become an independent investigator in research? 
+* Do the reference letters address the above review criteria, and do they provide evidence that the candidate has a high potential for becoming an independent investigator.
 
 ## Suggestions and Ideas
 
