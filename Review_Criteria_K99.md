@@ -1,4 +1,4 @@
-# Review Criteria (NRSA)
+# Review Criteria (K99/R00)
 
 | Question  | Where to Put the Answer |
 | ------------- | ------------- |
