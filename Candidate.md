@@ -2,6 +2,15 @@
 
 Start by downloading the [Candidate Information](Documents/Candidate_Worksheet.docx) worksheet and answering those questions.  You may need to set up a meeting to get some opinions from your mentors.
 
+## Documents for this Session
+
+This session we will work on three documents related to introducing yourself to the reviewers.
+
+* **Biosketch**, for you and for all key personnel including your sponsor(s) and key collaborators.
+* **Applicant's Background** part of the training plan 
+
+We will work on the [Goals for Fellowship Training](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) next session.
+
 ## Review Criteria (NRSA)
 
 * Are the candidate's academic record and research experience of high quality? 
