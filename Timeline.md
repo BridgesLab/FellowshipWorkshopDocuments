@@ -16,7 +16,7 @@ While our focus is on NRSA F31 proposals there are many other fellowhsips that s
 ## Structure of the Modules
 
 * Each module will have some background information, a worksheet and some resources.
-* For each module we will note the review criteria at the top.  It is important that for each document you clearly respond to each of these questions, providing the best possible evidence to support your proposal.
+* For each module we will note the review criteria at the top.  It is important that for each document you clearly respond to each of these questions, providing the best possible evidence to support your proposal.  For a some suggestions on where reviewers may look for the review criteria see [this document](Review_Criteria_NRSA.md).
 
 ## What Will I Need to Write?
 
