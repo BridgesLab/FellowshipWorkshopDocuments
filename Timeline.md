@@ -10,8 +10,8 @@ Please download and fill out this [worksheet](Documents/Planning_Worksheet.docx)
 
 While our focus is on NRSA F31 proposals there are many other fellowhsips that support trainees.  Here are some other resources:
 
-* Johns Hopkins Database of Graduate Student Funding Opportunities: https://research.jhu.edu/rdt/funding-opportunities/graduate/
-* American Heart Association Predoctoral Fellowships: https://professional.heart.org/en/research-programs/aha-funding-opportunities/predoctoral-fellowship 
+* Johns Hopkins [Database of Graduate Student Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/graduate/)
+* American Heart Association [Predoctoral Fellowships](https://professional.heart.org/en/research-programs/aha-funding-opportunities/predoctoral-fellowship)
 
 ## Structure of the Modules
 
@@ -20,7 +20,7 @@ While our focus is on NRSA F31 proposals there are many other fellowhsips that s
 
 ## What Will I Need to Write?
 
-You will to write several sections that will be compiled into the final grant.  Reach out to your grants administrator and they can provide you with a checklist.  The component and their lenghts can be found here: https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/page-limits.htm#train and below.
+You will to write several sections that will be compiled into the final grant.  Reach out to your grants administrator and they can provide you with a checklist.  The component and their lengths can be found [here](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/page-limits.htm#train) and below.
 
 
 | Section | Length | Notes |
@@ -39,6 +39,4 @@ You will to write several sections that will be compiled into the final grant.  
 | Description of Institutional Environment and Commitment to Training | 2 pages | 
 | Biographical Sketches | 5 pages | Candidate and all key personnel |  	
 
-
-## Prior F31 Recipients
 
