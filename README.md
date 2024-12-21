@@ -2,7 +2,7 @@
 
 This site contains documents and information for a fellowship writing workshop sponsored by the [Elizabeth Weiser Caswell Diabetes Institute](https://diabetes.med.umich.edu/), first offered in Spring 2024.  If you are interested in joining the CDI Learning Community, or participating in this or future workshops please email [Dave Bridges](mailto:davebrid@umich.edu).
 
-The main goal is to support trainees in writing F31 applications, so these materials are based on [PA-23-272](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html).
+The main goal is to support trainees in writing F31 and F32 applications, so these materials are based on [PA-23-272](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html).
 
 # Organization and Plan
 
@@ -16,14 +16,16 @@ We will host workshops every other week with a brief faculty talk and peer revie
 
 ## Schedule
 
+The schedule is based on a presumed cycle 1 submission date of April 8th, 2025.
+
 | Session | Date | 
 | ------------- | ------------- |
-| [Orientation and Planning](Timeline.md)  | January 8th |
-| [Candidate Introduction](Candidate.md) and [Budget](Budget.md)| January 22nd | 
-| [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | February 5th | 
-| [Aims Page and Abstract](Aims.md) |  February 19th| 
-| [Supporting Documentation](Supporting_Documents) | March 4th |
-| [Research Strategy](Research_Stragegy.md)| March 18th |
+| [Orientation and Planning](Timeline.md)  | January 10th |
+| [Candidate Introduction](Candidate.md) and [Budget](Budget.md)| January 24th | 
+| [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | February 7th | 
+| [Aims Page and Abstract](Aims.md) |  February 21st| 
+| [Supporting Documentation](Supporting_Documents) | March 7th |
+| [Research Strategy](Research_Stragegy.md)| March 21st |
 
 
 
