@@ -8,6 +8,8 @@ The overall plan for trainee and mentor planning is shown here, this includes so
 
 ### List of Trainees and Ways to Keep it Up to Date
 
+Check in with mentors annually and verify that these are their trainees, add in people who attend workshops or events.  Would require mostly administrative support.
+
 ### K Club and K Workshops
 
 This is run through MICHR, more information at https://michr.umich.edu/offering/k-writing-workshop/
@@ -18,13 +20,30 @@ This was run last year by Dave, Costas, and Brigid with support of CDI and the D
 
 ### Research Clubs and Seminars
 
-## Resources to Build
+Already running, would advertise these through newsletters and the website.  Should think about how to prioritize trainees for lunches with [speakers](#co-ordinating-meetings-with-speakers).
+
+## Resources to Develop
 
 ### Writing Groups
 
+These would be student-run drop-in writing groups targetting students working on papers, theses and dissertations.  Would require minimal faculty input but administrative support to find times and set up zooms.
+
+* **Goals** To connect students who are writing, build connections
+* **Measureables and Evaluation** Attendance
+
 ### F31/F31 Bootcamps
 
+Four week seminar covering how to write a competitive award.  Focus will be mainly on professional development and structure of application, with the mentor providing most of the scientific support (see https://bridgeslab.github.io/FellowshipWorkshopDocuments/) for outline.  Would involve pretty substantial planning and reading to set up, plus administrative support for getting rooms booked and food.
+
+* **Goals** To help students write competitive F31s
+* **Measureables and Evaluation** Attendance, and to increase the number of F31 submissions and awards from F31 trainees.
+
 ### Co-ordinating Meetings with Speakers
+
+Try to find ways to identify students who would be interested in meeting with speaksers, both from [seminars](#research-clubs-and-seminars) and from [alumni](#alumni-meetings-and-seminars).  Would need to come up with a plan on how to contact students ([newsletter](#trainee-newsletter) and [email list](#list-of-trainees-and-ways-to-keep-it-up-to-date).
+
+* **Goals** Provide students with more access to visiting speakers.
+* **Measureables and Evaluation**  Number and variety of students that meet with speakers.  
 
 ### Technical Workshops
 
@@ -57,7 +76,7 @@ These would include trainee and researcher awards.  Ideally with a nominal prize
 
 ### Trainee Newsletter
 
-In order to share achievements and information to and about trainees, a monthly newsletter.  This will be a centralized place to share information about [workshops](#regular-monthly-trainee-workshops), [seminars](#research-clubs), [awards](#cdi-awards), and other relevant information.  I also would like to use this to develop peer-generated trainee profiles where trainees interview each other and we post those.  Would need a template and an updated list of trainees.
+In order to share achievements and information to and about trainees, a monthly newsletter.  This will be a centralized place to share information about [workshops](#regular-monthly-trainee-workshops), [seminars](#research-clubs), [awards](#cdi-awards), and other relevant information.  This could also be a venue to let students know about upcoming speakers they may want to [meet](#co-ordinating-meetings-with-speakers). I also would like to use this to develop peer-generated trainee profiles where trainees interview each other and we post those.  Would need a template and an updated list of trainees.
 
 ### Social Events
 
@@ -71,7 +90,7 @@ Both mentors and mentees
 
 ### Website Updates and Social Media
 
-Could also include sharing the newsletters.
+Could also include sharing the newsletters.  This should also be a centralization of resources, could include links to training programs (T32, Postbac, MSURE) as well as events.
 
 ### Networking and Coffees
 
@@ -79,9 +98,19 @@ Could also include sharing the newsletters.
 
 ### Administrative Support Needed for these Tasks
 
-- [ ] Substantial administrative support for [symposia](#future-of-metabolic-physiology-symposia)
-- [ ] Updated trainee list, and a robust mechanism to keep it up to date
-
+- [ ] Organizational help for [symposia](#future-of-metabolic-physiology-symposia)
+- [ ] Updating trainee list, adding new folks from attendances
+- [ ] Updating website, allowing for regular posts
+- [ ] Set up writing groups
+- [ ] Co-ordinate with trainees during workshops
+ 
 ### Faculty Time Needed for these Tasks
 
-- [ ] Co-ordinating with administrative support
+- [ ] Co-ordinating with administrative support (24h biweekly 1h meetings)
+- [ ] Running workshops (24h 1h/month + 1h/month prep)
+- [ ] Website update planning (4h)
+- [ ] Fellowship workshop lead (24h, 6 x 2h sessions + 2h preparation)
+
+### Money
+
+- [ ] Food for workshops (1x/month for 10 people)
