@@ -51,7 +51,7 @@ Try to find ways to identify students who would be interested in meeting with sp
 
 ### Technical Workshops
 
-This could integrate with the [monthly professional development workshops](#regular-monthly-trainee-workshops).  Ideas could be core presentations, RNAseq/scRNAseq analyses, image analyses, etc.
+This could integrate with the [monthly professional development workshops](#regular-monthly-trainee-workshops).  Ideas could be core presentations, RNAseq/scRNAseq analyses, image analyses, etc.  This could also be a way to bring in expertise from other departments or programs (computer science, statistics, engineering)
 
 * **Goals** Provide scientific training opportunities.
 * **Measureables and Evaluation**  Attendance.  
@@ -65,7 +65,7 @@ The goal is to nominate our trainees for more awards.  Need to identify award me
 
 ### Alumni Meetings and Seminars
 
-To allow trainees to meet with our alumni, with a special emphasis on non-academic careers.  This would involve identifying alumni, costs for bringing them in and administrative support to organize seminars.  Could start with physiology's alumni seminars.  The goal would be to bring in more people in non-academic careers.  Could also start by doing this via zoom maybe once a quarter during the [workshop time](#regular-monthly-trainee-workshops).
+To allow trainees to meet with our alumni, with a special emphasis on non-academic careers.  This would involve identifying alumni, costs for bringing them in and administrative support to organize seminars.  Could start with physiology's alumni seminars.  The goal would be to bring in more people in non-academic careers.  Could also start by doing this via zoom maybe once a quarter during the [workshop time](#regular-monthly-trainee-workshops).  Could also make these panel discussions to make things easier for the presenters.  This could potentially expand to internship and shadowing possibilities.
 
 * **Goals** Maintain connections with alumni, provide networking connections for trainees.
 * **Measurables** Trainee attendance.
@@ -78,14 +78,14 @@ A regular meeting where students both interact and can get professional developm
 * Mentoring undergrads
 * Career paths
 * Finding funding
-* Building your brand
+* Building your brand and forging a digital presence
 * Job searches
 * Mock chalk talks
 * Teaching skills and opportunities
 
 ### CDI Awards
 
-These would include trainee and researcher awards.  Ideally with a nominal prize.  This would involve identifying award criteria, soliciting nominations, and judging them.  This could lead into [external award](#soliciting-nominations-for-external-awards) nominations as well.
+These would include trainee and researcher awards.  Ideally with a nominal prize.  This would involve identifying award criteria, soliciting nominations, and judging them.  This could lead into [external award](#soliciting-nominations-for-external-awards) nominations as well.  We would want this to include both scientific recognition but also soft skill recognition (best communicator, most helpful colleague).
 
 ### Trainee Newsletter
 
@@ -98,7 +98,7 @@ A mixture of peer-led opportunities such as coffee/bagels or bowling for trainee
 * **Goals** Increase peer connectivity.
 * **Measurables** Trainee attendance.
 
-### Service Opportunities
+### Service Opportunities and Community Engagement
 
 Share teaching and community service opportunities.  Some of these are already organized.  Would need to find out from trainees what kinds of opportunities would be attractive.  For teaching could share workshops or classes about teaching, or solicit places to guest lecture about their topics.
 
@@ -112,7 +112,11 @@ Could also include sharing the newsletters.  This should also be a centralizatio
 
 ### Networking and Coffees
 
-A lower touch random networking idea, to connect people with each other
+A lower touch random networking idea, to connect people with each other.  We would start with [near-peer](#near-peer-mentoring).
+
+### Near-Peer Mentoring
+
+Connect trainees with someone who is slightly senior (early grad students with senior ones, early postdocs with senior ones, late students with junior postdocs).  Provide encouragement (or small amounts of coffee money) to meet and discuss what they need.
 
 ## Things We Need and Next Steps
 
@@ -142,3 +146,5 @@ A lower touch random networking idea, to connect people with each other
 - [ ] Organize networking or coffee activities (4h, 1h/quarter planning)
 
 Total time ~150 hours of ~12% FTE of an 8 month appointment.
+
+Other ideas (near peer mentoring, small grants)
