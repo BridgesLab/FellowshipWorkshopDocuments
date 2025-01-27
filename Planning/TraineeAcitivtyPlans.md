@@ -82,6 +82,7 @@ A regular meeting where students both interact and can get professional developm
 * Job searches
 * Mock chalk talks
 * Teaching skills and opportunities
+* Health disparities in diabetes
 
 ### CDI Awards
 
@@ -101,6 +102,9 @@ A mixture of peer-led opportunities such as coffee/bagels or bowling for trainee
 ### Service Opportunities and Community Engagement
 
 Share teaching and community service opportunities.  Some of these are already organized.  Would need to find out from trainees what kinds of opportunities would be attractive.  For teaching could share workshops or classes about teaching, or solicit places to guest lecture about their topics.
+
+* **Goals** Match trainees with relevant community engagement activities.
+* **Measurables** Participation.
 
 ### Games/Challenges
 
