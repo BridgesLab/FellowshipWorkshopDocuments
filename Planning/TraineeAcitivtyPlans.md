@@ -152,3 +152,28 @@ Connect trainees with someone who is slightly senior (early grad students with s
 Total time ~150 hours of ~12% FTE of an 8 month appointment.
 
 Other ideas (near peer mentoring, small grants)
+
+## Summary and Priorities
+
+| Activity | Status | Current Priority | Responsibility | 
+| --- | --- | --- | --- |
+| **K Club and K Workshops** | Done | High | MICHR |
+| **CDI Symposia** | Done | High | CDI | 
+| **Research Clubs and Seminars** | Done | High | CDI Staff | 
+| **List of Trainees and Ways to Keep it Up to Date** | In Progress | High | CDI Staff |
+| **F31/F31 Bootcamps** | In Progress | High | Dave |
+| **Regular Monthly Trainee Workshops** | In Progress | High | Dave/Durga |
+| **Social Events** | In Progress | Medium | Dave/Durga | 
+| **Trainee Newsletter** | Not Started | High | Dave/CDI Staff |
+| **Website Updates and Social Media** | Not Started | High | Dave/CDI Staff |
+| Writing Groups | Not Started | Low | Dave/J'La |
+| Co-ordinating Meetings with Speakers | Not Started | Medium | CDI Staff |
+| Technical Workshops | Not Started | Low | Dave/CDI Staff | 
+| Soliciting Nominations for External Awards | Not Started | Medium | Dave |
+| Alumni Meetings and Seminars | Not Started | Medium | Dave |
+| CDI Awards | Not Started | Medium | Dave/Durga |
+| Service Opportunities and Community Engagement | Not Started | Low | Dave |
+| Games/Challenges | Not Started | Low | Dave/Durga |
+| Networking and Coffees | Not Started | Low | Dave |
+| Near-Peer Mentoring | Not Started | Low | Dave |
+| Future of Metabolic Physiology Symposia | Unknown | Unknown | Dave |
