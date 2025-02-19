@@ -157,12 +157,12 @@ Other ideas (near-peer mentoring, small grants)
 | Activity | Status | Current Priority | Responsibility | 
 | --- | --- | --- | --- |
 | **K Club and K Workshops** | Done | High | MICHR |
-| **CDI Symposia** | Done | High | CDI | 
+| **CDI Symposia** | Done | High | Enrichment | 
 | **Research Clubs and Seminars** | Done | High | CDI Staff | 
 | **List of Trainees and Ways to Keep it Up to Date** | In Progress | High | CDI Staff |
 | **F31/F31 Bootcamps** | In Progress | High | Dave |
 | **Regular Monthly Trainee Workshops** | In Progress | High | Dave/Durga |
-| Social Events | In Progress | Medium | Dave/Durga | 
+| **Social Events** | In Progress | High | Dave/Durga | 
 | **Trainee Newsletter** | Not Started | High | Dave/CDI Staff |
 | **Website Updates and Social Media** | Not Started | High | Dave/CDI Staff |
 | Coordinating Meetings with Speakers | Not Started | Medium | CDI Staff |
@@ -171,8 +171,8 @@ Other ideas (near-peer mentoring, small grants)
 | Alumni Meetings and Seminars | Not Started | Medium | Dave |
 | CDI Awards | Not Started | Medium | Dave/Durga |
 | Writing Groups | Not Started | Low | Dave/CDI Staff |
-| Service Opportunities and Community Engagement | Not Started | Low | Dave |
+| Service Opportunities and Community Engagement | Not Started | Low | Enrichment |
 | Games/Challenges | Not Started | Low | Dave/Durga |
 | Networking and Coffees | Not Started | Low | Dave |
 | Near-Peer Mentoring | Not Started | Low | Dave |
-| Future of Metabolic Physiology Symposia | Unknown | Unknown | Dave |
+| Future of Metabolic Physiology Symposia | Unknown | Unknown | Enrichment |
