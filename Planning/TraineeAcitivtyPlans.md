@@ -185,32 +185,38 @@ Among the next steps we have these items.
 
 ### List of Trainees and Ways to Keep it Up to Date
 
-[ ] Use to set up meetings with CDI speakers
-[ ] Find easy ways to add yourself to it
+- [ ] Use to set up meetings with CDI speakers
+- [ ] Find easy ways to add yourself to it
 
 ### Regular Monthly Trainee Workshops
 
-[ ] February - leadership
-[ ] March - finding funding, WIELD on March 20th
-[ ] April - preparing research presentations
-[ ] May - RNAseq analyses
+Plans for future events
+
+- [ ] February - leadership (17 attendees)
+- [ ] March 21 - mentoring plans, plus WIELD event on March 20th
+- [ ] April 25 - [Women Shaping the Future of Health and Science](https://medicine.umich.edu/dept/pediatrics/events/202504/women-shaping-future-health-science-symposium).  April 17 CIMER workshop.
+- [ ] May 23 - finding funding
+- [ ] June 27th - giving a presentation
+- [ ] July 25th - networking/ice cream
 
 Topics of interest included mentoring plans, preparing research talks, finding funding, RNAseq and MMPC in order of interest.  Other topics we have thought about include networking, non-academic careers (alumni engagement), interview skills, negotiation, time management (OGPS), teaching skills (CRLT), social determinants in your research, MCRU services and considerations for human clinical studies, finding jobs outside of the USA.
 
 ### F31/F31 Bootcamps
 
-[ ] Book rooms and times
-[ ] Send requests to trainees, probably around the March meeting
-[ ] Finish set curricula
+- [ ] Book rooms and times
+- [ ] Send requests to trainees, probably around the March meeting
+- [ ] Finish set curricula
 
 ### Social Events
 
-[ ] Gauge interest at next trainee workshop.
+- [ ] Gauge interest at next trainee workshop.  Networking topic
 
 ### Trainee Newsletter
 
-[ ] Add something to the next CDI newsletter
+- [ ] Add something to the next CDI newsletter
 
 ### Website Updates and Social Media
 
-[ ] How to do this, planning what we want on there
+- [ ] Start with the flyer.
+- [ ] How to do this, planning what we want on there.
+- [ ] Erica Hudson-Thomas for May
