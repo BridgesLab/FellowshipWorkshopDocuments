@@ -2,7 +2,7 @@
 
 This site contains documents and information for a fellowship writing workshop sponsored by the [Elizabeth Weiser Caswell Diabetes Institute](https://diabetes.med.umich.edu/), first offered in Spring 2024.  If you are interested in joining the CDI Learning Community, or participating in this or future workshops please email [Dave Bridges](mailto:davebrid@umich.edu).
 
-The main goal is to support trainees in writing F31 and F32 applications, so these materials are based on [PA-23-272](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html).
+The main goal is to support trainees in writing F31 and F32 applications, so these materials are based on [PA-23-272](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html) and [PA-23-262](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html).
 
 # Organization and Plan
 
@@ -20,21 +20,19 @@ The schedule is based on a presumed cycle 1 submission date of April 8th, 2025.
 
 | Session | Date | 
 | ------------- | ------------- |
-| [Orientation and Planning](Timeline.md)  | January 10th |
-| [Candidate Introduction](Candidate.md) and [Budget](Budget.md)| January 24th | 
-| [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | February 7th | 
-| [Aims Page and Abstract](Aims.md) |  February 21st| 
-| [Supporting Documentation](Supporting_Documents) | March 7th |
-| [Research Strategy](Research_Stragegy.md)| March 21st |
-
-
+| [Orientation and Planning](Timeline.md)  | July 25th |
+| [Candidate Introduction](Candidate.md) and [Budget](Budget.md)| July 11th | 
+| [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | June 27th | 
+| [Aims Page and Abstract](Aims.md) |  June 13th | 
+| [Supporting Documentation](Supporting_Documents) | May 30th |
+| [Research Strategy](Research_Stragegy.md)| May 16th |
 
 These materials are free for anyone to use without attribution and are provided under a [CC-0 License](LICENSE.md)
 
 # Other Resources
 
-* Program Announcement for [NIH NRSA F31](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html).
-* Program Announcement for [NIH NRSA F31 - Diversity](https://grants.nih.gov/grants/guide/pa-files/PA-23-271.html).
+* Program Announcement for predoctoral awards [NIH NRSA F31](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html).
+* Program Announcement for postdoctoral awards [NIH NRSA F32](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html).
 * Arjun Raj's excellent ["So you want to apply for a PhD fellowship?"](https://docs.google.com/document/d/1WTMW3LZl1ifpFE1ddH1lvfijmmMsFwZggwsuQcotV_A/edit).
 
 
