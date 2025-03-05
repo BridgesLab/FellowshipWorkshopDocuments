@@ -192,7 +192,7 @@ Among the next steps we have these items.
 
 Plans for future events
 
-- [ ] February - leadership (17 attendees)
+- [x] February - leadership (17 attendees)
 - [ ] March 21 - mentoring plans, plus WIELD event on March 20th
 - [ ] April 25 - [Women Shaping the Future of Health and Science](https://medicine.umich.edu/dept/pediatrics/events/202504/women-shaping-future-health-science-symposium).  April 17 CIMER workshop.
 - [ ] May 23 - finding funding
@@ -209,14 +209,14 @@ Topics of interest included mentoring plans, preparing research talks, finding f
 
 ### Social Events
 
-- [ ] Gauge interest at next trainee workshop.  Networking topic
+- [ ] Gauge interest at next trainee workshop.  Plan is to integrate this into an ice cream social in July.
 
 ### Trainee Newsletter
 
 - [ ] Add something to the next CDI newsletter
+- [ ] Erica Hudson-Thomas for next newsletter in May
 
 ### Website Updates and Social Media
 
-- [ ] Start with the flyer.
+- [ ] Start with the flyer update for May-September.
 - [ ] How to do this, planning what we want on there.
-- [ ] Erica Hudson-Thomas for May
