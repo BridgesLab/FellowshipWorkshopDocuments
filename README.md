@@ -20,12 +20,12 @@ The schedule is based on a presumed cycle 1 submission date of April 8th, 2025.
 
 | Session | Date | 
 | ------------- | ------------- |
-| [Orientation and Planning](Timeline.md)  | January 10th |
-| [Candidate Introduction](Candidate.md) and [Budget](Budget.md)| January 24th | 
-| [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | February 7th | 
-| [Aims Page and Abstract](Aims.md) |  February 21st| 
-| [Supporting Documentation](Supporting_Documents) | March 7th |
-| [Research Strategy](Research_Stragegy.md)| March 21st |
+| [Orientation and Planning](Timeline.md)  | July 25th |
+| [Candidate Introduction](Candidate.md) and [Budget](Budget.md)| July 11th | 
+| [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | June 27th | 
+| [Aims Page and Abstract](Aims.md) |  June 13th | 
+| [Supporting Documentation](Supporting_Documents) | May 30th |
+| [Research Strategy](Research_Stragegy.md)| May 16th |
 
 
 
