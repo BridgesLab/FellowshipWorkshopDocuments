@@ -16,7 +16,7 @@ We will host workshops every other week with a brief faculty talk and peer revie
 
 ## Schedule
 
-The schedule is based on a presumed cycle 1 submission date of April 8th, 2025.
+The schedule is based on a presumed cycle 1 submission date of August 8th, 2025.
 
 | Session | Date | 
 | ------------- | ------------- |
