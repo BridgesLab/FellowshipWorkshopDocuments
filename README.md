@@ -25,7 +25,7 @@ The schedule is based on a presumed cycle 1 submission date of August 8th, 2025.
 | [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | June 27th | 
 | [Aims Page and Abstract](Aims.md) |  June 13th | 
 | [Supporting Documentation](Supporting_Documents) | May 30th |
-| [Research Strategy](Research_Stragegy.md)| May 16th |
+| [Research Strategy](Research_Stragegy.md)| May 16th July 25th |
 
 These materials are free for anyone to use without attribution and are provided under a [CC-0 License](LICENSE.md)
 
