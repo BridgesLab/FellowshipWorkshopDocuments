@@ -1,12 +1,12 @@
 # Fellowship Writing Workshop
 
-This site contains documents and information for a fellowship writing workshop sponsored by the [Elizabeth Weiser Caswell Diabetes Institute](https://diabetes.med.umich.edu/), first offered in Spring 2024.  If you are interested in joining the CDI Learning Community, or participating in this or future workshops please email [Dave Bridges](mailto:davebrid@umich.edu).
+This site contains documents and information for a fellowship writing workshop sponsored by the [Elizabeth Weiser Caswell Diabetes Institute](https://diabetes.med.umich.edu/), first offered in Summer 2025.  If you are interested in joining the CDI Learning Community, or participating in this or future workshops please email [J'La Berry](mailto:CDI-Trainees@umich.edu).
 
 The main goal is to support trainees in writing F31 and F32 applications, so these materials are based on [PA-23-272](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html) and [PA-23-262](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html).
 
 # Organization and Plan
 
-We will host workshops every other week with a brief faculty talk and peer review of each other's documents
+We will host workshops every other week with a brief faculty talk followed by peer review of each other's documents
 
 ## Workshop structure
 
