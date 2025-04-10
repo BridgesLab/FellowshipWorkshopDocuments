@@ -10,12 +10,12 @@
 | If a team of sponsors is proposed, is the team structure well justified for the mentored training plan, and are the roles of the individual members appropriate and clearly defined? | [Sponsor Statement](Sponsor_Statement.md), [Training Plan](Training_Plan.md) |
 | Are the qualifications of any collaborator(s) and/or consultant(s), including their complementary expertise and previous experience in fostering the training of fellows, appropriate for the proposed project? | [Training Plan](Training_Plan.md), Collaborator Letters/Biosketches |
 | Does the sponsor's research and training record, as well as mentoring statement, indicate that the candidate will receive exceptional training in the proposed research area and have the opportunity to publish high quality papers and present research data at national meetings as the project progresses? | [Sponsor Statement](Sponsor_Statement.md), Sponsor Biosketch |
-| Is the proposed research project of high scientific quality, and is it well integrated with the proposed research training plan? | [Training Plan](Training_Plan.md), [Research Plan](Research_Strategy.md) |
-| Is the prior research that serves as the key support for the proposed project rigorous? | [Research Plan](Research_Strategy.md) |
-| Has the applicant included plans to address weaknesses in the rigor of prior research that serves as the key support for the proposed project? |[Research Plan](Research_Strategy.md) |
-| Has the applicant presented strategies to ensure a robust and unbiased approach, as appropriate for the work proposed? | [Research Plan](Research_Strategy.md) | 
+| Is the proposed research project of high scientific quality, and is it well integrated with the proposed research training plan? | [Aims](Aims.md), [Training Plan](Training_Plan.md), [Research Plan](Research_Strategy.md) |
+| Is the prior research that serves as the key support for the proposed project rigorous? |[Aims](Aims.md), [Research Plan](Research_Strategy.md) |
+| Has the applicant included plans to address weaknesses in the rigor of prior research that serves as the key support for the proposed project? |[Aims](Aims.md), [Research Plan](Research_Strategy.md) |
+| Has the applicant presented strategies to ensure a robust and unbiased approach, as appropriate for the work proposed? | [Aims](Aims.md)[Research Plan](Research_Strategy.md) | 
 | Has the applicant presented adequate plans to address relevant biological variables, such as sex, for studies in vertebrate animals or human subjects? | [Research Plan](Research_Strategy.md) |
-| Is the research project consistent with the candidate’s stage of research development? | [Research Plan](Research_Strategy.md), [Training Plan](Training_Plan.md) |
+| Is the research project consistent with the candidate’s stage of research development? | [Aims](Aims.md), [Research Plan](Research_Strategy.md), [Training Plan](Training_Plan.md) |
 | Is the proposed time frame feasible to accomplish the proposed training? | [Research Plan](Research_Strategy.md), [Training Plan](Training_Plan.md) |
 | Does the training plan provide adequate opportunities to present and publish research findings and meet with scientists in the community at national meetings as the work progresses? | [Training Plan](Training_Plan.md), [Sponsor Statement](Sponsor_Statement.md)
 | Will the training plan provide the professional skills needed for the candidate to transition to the next stage of their research career? | [Training Plan](Training_Plan.md) |

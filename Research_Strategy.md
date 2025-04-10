@@ -1,5 +1,12 @@
 # Research Strategy
 
+## Documents for this Session
+
+This session we will work on two research-related documents with the main focus on the research strategy.
+
+* **Reseach Strategy** - 6 pages describing the premise of your work, experimental approaches, expected results and alternative strategies
+* **Relative Contributions** - 1 page to describe the collaborative process between you and your sponsor/co-sponsor(s) in the development, review, and editing of this Research Training Plan. Also discuss your respective roles in accomplishing the proposed research.
+
 ## Review Criteria
 
 * Is the proposed research project of high scientific quality, and is it well integrated with the proposed research training plan?
