@@ -16,16 +16,16 @@ We will host workshops every other week with a brief faculty talk and peer revie
 
 ## Schedule
 
-The schedule is based on a presumed cycle 1 submission date of August 8th, 2025.
+The schedule is based on a presumed cycle 1 submission date of **August 8th, 2025**.
 
 | Session | Date | 
 | ------------- | ------------- |
-| [Orientation and Planning](Timeline.md)  | July 25th |
-| [Candidate Introduction](Candidate.md) and [Budget](Budget.md)| July 11th | 
-| [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | June 27th | 
-| [Aims Page and Abstract](Aims.md) |  June 13th | 
-| [Supporting Documentation](Supporting_Documents) | May 30th |
-| [Research Strategy](Research_Stragegy.md)| May 16th July 25th |
+| [Orientation and Planning](Timeline.md)  | May 16th |
+| [Candidate Introduction](Candidate.md) and [Budget](Budget.md)| May 30th | 
+| [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | June 11th | 
+| [Aims Page and Abstract](Aims.md) |  June 27th | 
+| [Supporting Documentation](Supporting_Documents) | July 11th |
+| [Research Strategy](Research_Stragegy.md)| July 25th |
 
 These materials are free for anyone to use without attribution and are provided under a [CC-0 License](LICENSE.md)
 
