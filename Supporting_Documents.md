@@ -9,7 +9,7 @@ These are distinct from your letters of reference, but instead should be letters
 ### Facilities
 ### Key equipment
 ### Training in Responsible Conduct of Research
-### Authentication of KResources
+### Authentication of Resources
 ### Resource Sharing Plans
 
 ## Review Criteria

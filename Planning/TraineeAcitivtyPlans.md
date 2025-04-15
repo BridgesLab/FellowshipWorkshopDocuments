@@ -175,4 +175,48 @@ Other ideas (near-peer mentoring, small grants)
 | Games/Challenges | Not Started | Low | Dave/Durga |
 | Networking and Coffees | Not Started | Low | Dave |
 | Near-Peer Mentoring | Not Started | Low | Dave |
-| Future of Metabolic Physiology Symposia | Unknown | Unknown | Enrichment |
+| Future of Metabolic Physiology Symposia | Next Year | Low | Dave |
+
+## Next Steps for High Priority Items
+
+Several items dont need any immediate attention and are running well including K Club and K Workshops, the CDI Symposia, Research Clubs and Seminars
+
+Among the next steps we have these items.
+
+### List of Trainees and Ways to Keep it Up to Date
+
+- [ ] Use to set up meetings with CDI speakers
+- [ ] Find easy ways to add yourself to it
+
+### Regular Monthly Trainee Workshops
+
+Plans for future events
+
+- [x] February - leadership (17 attendees)
+- [x] March 21 - mentoring plans, plus WIELD event on March 20th
+- [ ] April 25 - [Women Shaping the Future of Health and Science](https://medicine.umich.edu/dept/pediatrics/events/202504/women-shaping-future-health-science-symposium).  April 17 CIMER workshop.
+- [ ] May 23 - finding funding
+- [ ] June 27th - giving a presentation
+- [ ] July 25th - networking/ice cream
+
+Topics of interest included mentoring plans, preparing research talks, finding funding, RNAseq and MMPC in order of interest.  Other topics we have thought about include networking, non-academic careers (alumni engagement), interview skills, negotiation, time management (OGPS), teaching skills (CRLT), social determinants in your research, MCRU services and considerations for human clinical studies, finding jobs outside of the USA.
+
+### F31/F31 Bootcamps
+
+- [x] Book rooms and times
+- [ ] Send requests to trainees, probably around the March meeting
+- [ ] Finish set curricula
+
+### Social Events
+
+- [ ] Gauge interest at next trainee workshop.  Plan is to integrate this into an ice cream social in July.
+
+### Trainee Newsletter
+
+- [ ] Add something to the next CDI newsletter
+- [ ] Erica Hudson-Thomas for next newsletter in May
+
+### Website Updates and Social Media
+
+- [ ] Start with the flyer update for May-September.
+- [ ] How to do this, planning what we want on there.
