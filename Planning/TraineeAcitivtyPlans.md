@@ -185,16 +185,15 @@ Among the next steps we have these items.
 
 ### List of Trainees and Ways to Keep it Up to Date
 
-- [ ] Use to set up meetings with CDI speakers
-- [ ] Find easy ways to add yourself to it
+- [x] Use to set up meetings with CDI speakers
+- [ ] Track how many trainees attend speaker lunches
+- [ ] Find easy ways to add yourself to it - email [TrainingandMentoringAdmin@umich.edu](mailto:TrainingandMentoringAdmin@umich.edu) 
 
 ### Regular Monthly Trainee Workshops
 
-Plans for future events
-
 - [x] February - leadership (17 attendees)
 - [x] March 21 - mentoring plans, plus WIELD event on March 20th
-- [ ] April 25 - [Women Shaping the Future of Health and Science](https://medicine.umich.edu/dept/pediatrics/events/202504/women-shaping-future-health-science-symposium).  April 17 CIMER workshop.
+- [x] April 25 - [Women Shaping the Future of Health and Science](https://medicine.umich.edu/dept/pediatrics/events/202504/women-shaping-future-health-science-symposium).  April 17 CIMER workshop.
 - [ ] May 23 - finding funding
 - [ ] June 27th - giving a presentation
 - [ ] July 25th - networking/ice cream
@@ -204,7 +203,7 @@ Topics of interest included mentoring plans, preparing research talks, finding f
 ### F31/F31 Bootcamps
 
 - [x] Book rooms and times
-- [ ] Send requests to trainees, probably around the March meeting
+- [x] Send requests to trainees, probably around the March meeting
 - [ ] Finish set curricula
 
 ### Social Events
@@ -219,4 +218,4 @@ Topics of interest included mentoring plans, preparing research talks, finding f
 ### Website Updates and Social Media
 
 - [ ] Start with the flyer update for May-September.
-- [ ] How to do this, planning what we want on there.
+- [x] How to do this, planning what we want on there.
