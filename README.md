@@ -6,7 +6,9 @@ The main goal is to support trainees in writing F31 and F32 applications, so the
 
 # Organization and Plan
 
-We will host workshops every other week with a brief faculty talk followed by peer review of each other's documents
+We will host workshops every other week with a brief faculty talk followed by peer review of each other's documents.  We will meet *in person* from 11-12 at North Campus Research Center B20 Rm 2814:
+
+[![NCRC Building 20](Documents/NCRC_map.png)](https://maps.app.goo.gl/WRjZw52iK8MNGDxXA)
 
 ## Workshop structure
 
