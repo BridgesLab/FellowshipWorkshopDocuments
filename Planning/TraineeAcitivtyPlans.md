@@ -132,49 +132,46 @@ Connect trainees with someone who is slightly senior (early grad students with s
 - [ ] Set up writing groups
 - [ ] Co-ordinate with trainees during workshops
 - [ ] Newsletter posting
-- [ ] Co-ordinating meetings with speakers
  
-### Estimated Faculty Time Needed for these Tasks
+### Faculty Time Needed for these Tasks
 
-| Task | Time Breakdown | Total Time |
-| --- | --- | --- |
-| Co-ordinating with administrative support | Biweekly 1h meetings | 24h |
-|Running workshops | 10x 1h/month + 3h/month prep | 40h |
-|Website update planning | 4h | 4h |
-|Fellowship workshop lead | 6 x 2h sessions + 2h preparation | 24h |
-|Faculty lead for MICHR K-Club | 4 sessions; x 4 prep + 1h attendance) | 20h |
-|Identifying students for external award nominations. Would require more detailed knowledge about projects but could leverage students presenting in [seminars](#research-clubs-and-seminars), and [symposia](#cdi-symposia).| 4h/year | 4h |
-|Finding and organizing alumni visits | 8h during the visits | 12h |
-|Trainee Awards | 8h planning, 4h to evaluate, 1h for ceremony | 4h |
-|Newsletter planning | 2h to come up with ideas, 1h to curate per month | 14h |
-|Identify service opportunities, share via email or [newsletter](#trainee-newsletter)| 1h/month |6h |
-|Plan out what we would need for games/challenges | 1h/quarter planning | 4h |
-|Organize networking or coffee activities | 1h/quarter planning | 4h |
-|Co-ordinating meetings with speakers, making sure speakers have trainee visits | 1h/month | 12h |
+- [ ] Co-ordinating with administrative support (24h, biweekly 1h meetings)
+- [ ] Running workshops (24h, 1h/month + 1h/month prep)
+- [ ] Website update planning (4h)
+- [ ] Fellowship workshop lead (24h, 6 x 2h sessions + 2h preparation)
+- [ ] Faculty lead for MICHR K-Club (16h, 2h x 4 + 2h prep x 4)
+- [ ] Identifying students for external award nominations. Would require more detailed knowledge about projects but could leverage students presenting in [seminars](#research-clubs-and-seminars), and [symposia](#cdi-symposia). (4h/year)
+- [ ] Finding and organizing alumni visits (8h, 4h to find and work out visit details, 2 x per year)
+- [ ] CDI Awards (11h, 8h planning, 2h to evaluate, 1h for ceremony)
+- [ ] Newsletter planning (16h, 4h to come up with ideas, 1h to curate per month)
+- [ ] Identify service opportunities, share via email or [newsletter](#trainee-newsletter) (12h, 1h/month)
+- [ ] Plan out what we would need for games/challenges (4h, 1h/quarter planning)
+- [ ] Organize networking or coffee activities (4h, 1h/quarter planning)
 
-Total time ~172 hours of ~12% FTE of a 9-month appointment.
+Total time ~150 hours of ~12% FTE of an 8-month appointment.
 
+Other ideas (near-peer mentoring, small grants)
 
 ## Summary and Priorities
 
 | Activity | Status | Current Priority | Responsibility | 
 | --- | --- | --- | --- |
 | **K Club and K Workshops** | Done | High | MICHR |
-| **CDI Symposia** | Done | High | CDI | 
+| **CDI Symposia** | Done | High | Enrichment | 
 | **Research Clubs and Seminars** | Done | High | CDI Staff | 
 | **List of Trainees and Ways to Keep it Up to Date** | In Progress | High | CDI Staff |
 | **F31/F31 Bootcamps** | In Progress | High | Dave |
 | **Regular Monthly Trainee Workshops** | In Progress | High | Dave/Durga |
-| **Social Events** | In Progress | Medium | Dave/Durga | 
+| **Social Events** | In Progress | High | Dave/Durga | 
 | **Trainee Newsletter** | Not Started | High | Dave/CDI Staff |
 | **Website Updates and Social Media** | Not Started | High | Dave/CDI Staff |
-| **Coordinating Meetings with Speakers** | Not Started | Medium | CDI Staff |
-| **Technical Workshops** | Starting in Fall | Medium | Dave/CDI Staff | 
-| **CDI Awards** | Not Started | Medium | Dave/Durga |
-| Soliciting Nominations for External Awards for Trainees | Not Started | Medium | Dave |
+| Coordinating Meetings with Speakers | Not Started | Medium | CDI Staff |
+| Technical Workshops | Not Started | Medium | Dave/CDI Staff | 
+| Soliciting Nominations for External Awards | Not Started | Medium | Dave |
 | Alumni Meetings and Seminars | Not Started | Medium | Dave |
+| CDI Awards | Not Started | Medium | Dave/Durga |
 | Writing Groups | Not Started | Low | Dave/CDI Staff |
-| Service Opportunities and Community Engagement | Not Started | Low | Dave |
+| Service Opportunities and Community Engagement | Not Started | Low | Enrichment |
 | Games/Challenges | Not Started | Low | Dave/Durga |
 | Networking and Coffees | Not Started | Low | Dave |
 | Near-Peer Mentoring | Not Started | Low | Dave |
@@ -188,16 +185,15 @@ Among the next steps we have these items.
 
 ### List of Trainees and Ways to Keep it Up to Date
 
-- [ ] Use to set up meetings with CDI speakers
-- [ ] Find easy ways to add yourself to it
+- [x] Use to set up meetings with CDI speakers
+- [ ] Track how many trainees attend speaker lunches
+- [ ] Find easy ways to add yourself to it - email [TrainingandMentoringAdmin@umich.edu](mailto:TrainingandMentoringAdmin@umich.edu) 
 
 ### Regular Monthly Trainee Workshops
 
-Plans for future events
-
 - [x] February - leadership (17 attendees)
 - [x] March 21 - mentoring plans, plus WIELD event on March 20th
-- [ ] April 25 - [Women Shaping the Future of Health and Science](https://medicine.umich.edu/dept/pediatrics/events/202504/women-shaping-future-health-science-symposium).  April 17 CIMER workshop.
+- [x] April 25 - [Women Shaping the Future of Health and Science](https://medicine.umich.edu/dept/pediatrics/events/202504/women-shaping-future-health-science-symposium).  April 17 CIMER workshop.
 - [ ] May 23 - finding funding
 - [ ] June 27th - giving a presentation
 - [ ] July 25th - networking/ice cream
@@ -206,8 +202,8 @@ Topics of interest included mentoring plans, preparing research talks, finding f
 
 ### F31/F31 Bootcamps
 
-- [ ] Book rooms and times
-- [ ] Send requests to trainees, probably around the March meeting
+- [x] Book rooms and times
+- [x] Send requests to trainees, probably around the March meeting
 - [ ] Finish set curricula
 
 ### Social Events
@@ -222,4 +218,4 @@ Topics of interest included mentoring plans, preparing research talks, finding f
 ### Website Updates and Social Media
 
 - [ ] Start with the flyer update for May-September.
-- [ ] How to do this, planning what we want on there.
+- [x] How to do this, planning what we want on there.
