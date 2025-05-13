@@ -94,5 +94,5 @@ As of January 25, 2025 you do not need to include scholastic performance (see [N
 
 ## Resources
 
-* Biosketch templates, make sure to use **fellowship biosketch** https://grants.nih.gov/grants-process/write-application/forms-directory/biosketch
-* NIH Instructions (Forms H) https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/fellowship-forms-h.pdf
+* Biosketch templates, make sure to use **fellowship biosketch** [here](https://grants.nih.gov/grants-process/write-application/forms-directory/biosketch)
+* [NIH Instructions for Forms H](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/fellowship-forms-h.pdf)
