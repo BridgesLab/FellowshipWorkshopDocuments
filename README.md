@@ -16,6 +16,8 @@ We will host workshops every other week with a brief faculty talk followed by pe
 * **During the workshops**: There will be a faculty-led mini-lecture on the topic, followed by peer review of each participant's documents (and food).
 * **After the workshops**: Revise your documents based on the discussions.
 
+![Timeline Diagram](Documents/Images/Workshop%20Structure.png)
+
 ## Schedule
 
 The schedule is based on a presumed cycle 1 submission date of **August 8th, 2025**.
