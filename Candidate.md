@@ -4,10 +4,10 @@ Start by downloading the [Candidate Information](Documents/Candidate_Worksheet.d
 
 ## Documents for this Session
 
-This session we will work on three documents related to introducing yourself to the reviewers.
+This session we will work on two documents related to introducing yourself to the reviewers.
 
-* **Biosketch**, for you and for all key personnel including your sponsor(s) and key collaborators.
-* **Applicant's Background** part of the training plan 
+* **Biosketch**, is needed for you and for all key personnel including your sponsor(s) and key collaborators.  Template and example biosketches are [here](https://grants.nih.gov/grants-process/write-application/forms-directory/biosketch).  *Make sure to use the fellowship biosketch*.
+* **Applicant's Background** is part of the training plan, the document called *Applicant’s Background and Goals for Fellowship Training.*  This is section A: Doctoral Dissertation and Research Experience 
 
 We will work on the [Goals for Fellowship Training](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) next session.
 
@@ -70,4 +70,29 @@ For your current abilities and aptitudes, think of the best possible demonstrati
 
 At the end of this funding period, you should be able to define yourself as a PhD scientist with a unique set of skills and capabilities ready for the next stage of your career.  Talk to your sponsor and mentors about their perceptions of what makes an outstanding scientist in your field, and try to integrate that with your goals.  Ask about about what foundational skills are critical for a scientist in their view, and how they obtained them.  This should be more expansive than your current expertise in clear and specific ways.  If you clearly describe (or diagram) both where you are now (the completed part of the puzzle) and where you will be at the end of your PhD, there should be obvious and clear gaps that are missing between now and the future.  These will be filled by your training goals in your [Training Plan](Training_Plan.md) and are the missing pieces.  It should be obvious to the reader from the definition of yourself currently and yourself in the future what these gaps will be.  I recommend a diagram or schematic specifying specific current skills/abilities and those that require further training.
 
+## Your Biosketch
+
+This is your mini-CV, it should have details about your education, a personal statement, positions, scientific Appointments, and honors, and your contributions to science.
+
+### Your Personal Statement
+
+Should be a first person description of your background, goals and expertise.  You should highlight past accomplishments, and any mitigating circumstances/gaps in your record.  You should explain why you are uniquely suited for this fellowship.  You should include four publications/products as evidence for your expertise/fit.  Try to keep it short, under 300 words.
+
+### Framing Your Contributions to Science
+
+One way to do this is to break it down by career stage (predoctoral, doctoral, postdoctoral).  Another way is to break it down by research field (if you have done work in different areas).   For each contribution you can include **up to four** example products to demonstrate your contribution.  These can include:
+
+* Peer reviewed publications
+* Preprints 
+* Conference proceedings, meeting abstracts, posters, and oral presentations
+* Patents
+* Datasets
+* Educational materials
+* Software or protocols
+
+As of January 25, 2025 you do not need to include scholastic performance (see [NOT-OD-24-107](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-107.html)), leave that part blank or enter N/A
+
 ## Resources
+
+* Biosketch templates, make sure to use **fellowship biosketch** https://grants.nih.gov/grants-process/write-application/forms-directory/biosketch
+* NIH Instructions (Forms H) https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/fellowship-forms-h.pdf
