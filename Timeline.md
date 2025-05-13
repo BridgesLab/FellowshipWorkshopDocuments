@@ -39,4 +39,8 @@ You will need to write several sections that will be compiled into the final gra
 | Description of Institutional Environment and Commitment to Training | 2 pages | 
 | [Biographical Sketches](Candidate.md) | 5 pages | Candidate and all key personnel |  	
 
+## Timeline for Writing and Review
 
+Our goal will be to read each of the candidate introduction, training plan, and specific aims twice.  Built into the structure of the workshops the plan is to review them in this order:
+
+![Timeline Diagram](Documents/Images/Workshop%20Timeline.png)
