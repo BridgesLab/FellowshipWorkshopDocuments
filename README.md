@@ -1,3 +1,8 @@
+---
+layout: default
+title: FellowshipWorkshopDocuments
+---
+
 # Fellowship Writing Workshop
 
 This site contains documents and information for a fellowship writing workshop sponsored by the [Elizabeth Weiser Caswell Diabetes Institute](https://diabetes.med.umich.edu/), first offered in Summer 2025.  If you are interested in joining the CDI Learning Community, or participating in this or future workshops please email us at [TrainingandMentoringAdmin@umich.edu ](mailto:TrainingandMentoringAdmin@umich.edu).

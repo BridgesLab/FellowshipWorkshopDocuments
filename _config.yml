@@ -1,3 +1,4 @@
-url: "https://bridgeslab.github.io/FellowshipWorkshopDocuments/"
+url: "https://bridgeslab.github.io"
+baseurl: "/FellowshipWorkshopDocuments"
 plugins:
   - jekyll-sitemap
