@@ -3,9 +3,12 @@ layout: default
 title: FellowshipWorkshopDocuments
 ---
 
+[![Caswell Diabetes Institute Logo](cdi-logo.svg)](https://diabetes.med.umich.edu/)
+
 # Fellowship Writing Workshop
 
-This site contains documents and information for a fellowship writing workshop sponsored by the [Elizabeth Weiser Caswell Diabetes Institute](https://diabetes.med.umich.edu/), first offered in Summer 2025.  If you are interested in joining the CDI Learning Community, or participating in this or future workshops please email us at [TrainingandMentoringAdmin@umich.edu ](mailto:TrainingandMentoringAdmin@umich.edu).
+This site contains documents and information for a fellowship writing workshop sponsored by the [Elizabeth Weiser Caswell Diabetes Institute](https://diabetes.med.umich.edu/), first offered in Summer 2025.  If you are interested in joining the [CDI Learning Community](https://diabetes.med.umich.edu/enrichment-training-funding/training-mentoring), or participating in this or future workshops please email us at [TrainingandMentoringAdmin@umich.edu ](mailto:TrainingandMentoringAdmin@umich.edu).
+
 
 The main goal is to support trainees in writing F31 and F32 applications, so these materials are based on [PA-23-272](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html) and [PA-23-262](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html).
 
