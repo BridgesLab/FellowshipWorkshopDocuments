@@ -1,6 +1,6 @@
 # Orientation and Planning
 
-This session will serve as an introduction and planning section, as well as a panel discussion from prior F31 recipients.
+This session will serve as an introduction and planning section, as well as a panel discussion from prior F31 recipients.  Slides for this session can be found [here](Documents/Slides/Orientation.pptx).
 
 ## Planning Worksheet
 
