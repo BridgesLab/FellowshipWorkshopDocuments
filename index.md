@@ -20,8 +20,8 @@ We will host workshops every other week with a brief faculty talk followed by pe
 
 ## Workshop structure
 
-* **Before the meeting**: First complete the worksheet for each week, then using that information write drafts of the relevant sections.  Upload these by Friday before the meeting.
-* **During the workshops**: There will be a faculty-led mini-lecture on the topic, followed by peer review of each participant's documents (and food).
+* **Before the meeting**: First complete the worksheet for each week, then using that information write drafts of the relevant sections.  Upload these by Wednesday before the meeting to our shared [dropbox folder](https://www.dropbox.com/scl/fo/xuzkawkb5zwt9neu6tfnz/AAa9wY-1SMDd_i4EG4Md7Jc?rlkey=k6mla0hmrm7ki6sushehpno8a&st=kc7vfuva&dl=0).  Try to read each other's submissions before the meeting
+* **During the workshops**: We will start with peer review of each participant's documents (and food), and follow this up with a mini-lecture to prepare for the next week's documents.
 * **After the workshops**: Revise your documents based on the discussions.
 
 ![Timeline Diagram](Documents/Images/Workshop%20Structure.png)
