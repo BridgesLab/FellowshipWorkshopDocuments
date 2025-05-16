@@ -37,5 +37,5 @@ If requesting, state the amount (up to $3,000/year) and specify that it is for c
 
 ## Resources
 
-* Allowable and un-allowable expenses: https://grants.nih.gov/grants/policy/nihgps/html5/section_11/11.2.9_allowable_and_unallowable_costs.htm
-* Fellowship instructions: https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/fellowship-forms-h.pdf
+* [Allowable and un-allowable expenses](https://grants.nih.gov/grants/policy/nihgps/html5/section_11/11.2.9_allowable_and_unallowable_costs.htm)
+* [Full Fellowship instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/fellowship-forms-h.pdf)
