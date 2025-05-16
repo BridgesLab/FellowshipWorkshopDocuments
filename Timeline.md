@@ -31,6 +31,7 @@ You will need to write several sections that will be compiled into the final gra
 | [Applicant's Background](Candidate.md) and [Goals for Fellowship Training](Training_Plan.md) | 6 pages | Includes Research Experience, Goals, and Activities |
 | [Specific Aims](Aims.md)	| 1 page | | 
 | [Research Strategy](Research_Plan.md)	| 6 pages | | 
+| [Budget and Justification](Budget.md) | no explicit limit, should be ~ 1 page | |
 | [Respective Contributions](Research_Plan.md)	| 1 page | | 
 | Selection of Sponsor and Institution	| 1 page | | 
 | [Training in the Responsible Conduct of Research](Supporting_Documents.md)	| | 
