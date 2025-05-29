@@ -33,7 +33,7 @@ You will need to write several sections that will be compiled into the final gra
 | [Research Strategy](Research_Plan.md)	| 6 pages | | 
 | [Budget and Justification](Budget.md) | no explicit limit, should be ~ 1 page | |
 | [Respective Contributions](Research_Plan.md)	| 1 page | | 
-| Selection of Sponsor and Institution	| 1 page | | 
+| [Selection of Sponsor and Institution](Sponsor_Statement.md#selection-of-sponsor-and-institution)	| 1 page | | 
 | [Training in the Responsible Conduct of Research](Supporting_Documents.md)	| | 
 | [Sponsor and Co-Sponsor Statements](Sponsor_Statement.md)	| 6 pages | | 
 | [Letters of Support from Collaborators, Contributors, and Consultants](Supporting_Documents.md)	 | | 
