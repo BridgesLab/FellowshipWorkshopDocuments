@@ -1,6 +1,6 @@
 # Training Plan
 
-The worksheet to prepare to write your training plan is [here](Documents/Training_Plan_Worksheet.docx).
+The worksheet to prepare to write your training plan is [here](Documents/Training_Plan_Worksheet.docx).  The slides for this session can be found [here](Documents/Slides/Training%20Goals.pptx).
 
 The training plan is where you will connect your prior experience, articulated in the [Candidate Information](Candidate.md) section with your final career outcomes.  You will frame obtaining these skills into specific goals for training.  Try to use the SMART framework for goals.  This [link](https://www.ucop.edu/local-human-resources/_files/performance-appraisal/How+to+write+SMART+Goals+v2.pdf) may be useful if you are new to this framework:
 
