@@ -67,7 +67,3 @@ This document is in three parts (1 page maximum).  It allows you to describe how
 ## Letters of Support 
 
 In addition to this sponsors statement, you will need letters of support from key collaborators and resources (for more details on this see [Supporting Documents](Supporting_Documents)).  This should include both scientific letters of support, and potentially other mentors (such as review committee members).  These are separate from your letters of reference which are submitted anonymously and separate from these letters.
-
-## Suggestions and Ideas
-
-## Resources
