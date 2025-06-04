@@ -196,7 +196,16 @@ Among the next steps we have these items.
 - [x] April 25 - [Women Shaping the Future of Health and Science](https://medicine.umich.edu/dept/pediatrics/events/202504/women-shaping-future-health-science-symposium).  April 17 CIMER workshop.
 - [ ] May 23 - finding funding
 - [ ] June 27th - giving a presentation
-- [ ] July 25th - networking/ice cream
+- [ ] July 25th - networking/ice cream (game - bingo, needs prompts, perhaps Ormond)
+- [ ] August 22nd - nonacademic careers (Lucy)
+- [ ] September 26th - academic careers 
+- [ ] October 24th  - how do do a poster/networking at conference - send out a survey after CDI-MOD
+- [ ] December 5th - advocacy/supporting a cause
+- [ ] January 23rd - 
+- [ ] Feb 27th - 
+- [ ] Mar 27th - 
+- [ ] April 24th - 
+- [ ] May 22nd - 
 
 Topics of interest included mentoring plans, preparing research talks, finding funding, RNAseq and MMPC in order of interest.  Other topics we have thought about include networking, non-academic careers (alumni engagement), interview skills, negotiation, time management (OGPS), teaching skills (CRLT), social determinants in your research, MCRU services and considerations for human clinical studies, finding jobs outside of the USA.
 
@@ -219,3 +228,7 @@ Topics of interest included mentoring plans, preparing research talks, finding f
 
 - [ ] Start with the flyer update for May-September.
 - [x] How to do this, planning what we want on there.
+
+## Feedback from External Advisory Board
+
+Quantitative metrics, trainee leadership roles (newsletter/event planning), incorporating monthly chalk talks.
