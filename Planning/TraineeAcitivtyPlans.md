@@ -112,7 +112,7 @@ Both mentors and mentees could compete in regular challenges such as diabetes wa
 
 ### Website Updates and Social Media
 
-Could also include sharing the newsletters. This should also be a centralization of resources, could include links to training programs (T32, Postbac, MSURE) as well as events.
+Could also include sharing the newsletters. This should also be a centralization of resources, could include links to training programs (T32, Postbac, MSURE, BioMed Focus) as well as events.
 
 ### Networking and Coffees
 
@@ -194,7 +194,7 @@ Among the next steps we have these items.
 - [x] February - leadership (17 attendees)
 - [x] March 21 - mentoring plans, plus WIELD event on March 20th
 - [x] April 25 - [Women Shaping the Future of Health and Science](https://medicine.umich.edu/dept/pediatrics/events/202504/women-shaping-future-health-science-symposium).  April 17 CIMER workshop.
-- [ ] May 23 - finding funding
+- [x] May 23 - finding funding
 - [ ] June 27th - giving a presentation
 - [ ] July 25th - networking/ice cream
 

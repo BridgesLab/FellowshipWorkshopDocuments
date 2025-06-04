@@ -23,7 +23,7 @@
 | Does the training plan take advantage of the candidate’s strengths and address gaps in needed skills? Does the training plan document a clear need for, and value of, the proposed training? | [Candidate Introduction](Candidate.md), [Training Plan](Training_Plan.md), [Sponsor Statement](Sponsor_Statement.md) |
 | Does the proposed training have the potential to serve as a sound foundation that will clearly enhance the candidate’s ability to develop into a productive researcher? | [Candidate Introduction](Candidate.md), [Training Plan](Training_Plan.md), [Sponsor Statement](Sponsor_Statement.md) |
 | Are the research facilities, resources (e.g., equipment, laboratory space, computer time, subject populations, clinical training settings) and training opportunities (e.g. seminars, workshops, professional development opportunities) adequate and appropriate? | Facilities/Equipment, [Training Plan](Training_Plan.md), [Sponsor Statement](Sponsor_Statement.md) | 
-| Is the institutional environment for the candidate’s scientific development of high quality? | Facilities/Equipment, [Candidate Introduction](Candidate.md), [Sponsor Statement](Sponsor_Statement.md) | 
+| Is the institutional environment for the candidate’s scientific development of high quality? | Facilities/Equipment, [Candidate Introduction](Candidate.md), [Sponsor Statement](Sponsor_Statement.md), [Selection of Sponsor and Institution](Sponsor_Statement.md#selection-of-sponsor-and-institution) | 
 | Is there appropriate institutional commitment to fostering the candidate’s mentored training? | [Sponsor Statement](Sponsor_Statement.md) | 
 
 ## For clinical trials only
