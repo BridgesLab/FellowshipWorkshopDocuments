@@ -1,5 +1,7 @@
 # Abstract and Specific Aims Pages
 
+The worksheet for this week can be found at [Aims Worksheet](Documents/Aims_Worksheet.docx) and the slides are available at [Aims Slides](Documents/Slides/Aims%20and%20Abstract.pptx)
+
 ## Documents for this Session
 
 This session we will work on three research-related documents with increasing level of details.
@@ -23,8 +25,12 @@ This session we will work on three research-related documents with increasing le
 * Write the aims page first and revise at the end
 * The reviewer will come to a general conclusion about you, the idea and the clarity of your thinking by the time they have finished this page
 NIH explicit in what they want covered… share goals of proposed research, summarize the expected outcomes including positive outcomes on the field
-List specific aims succinctly, test a stated hypothesis, solve a specific problem
+* List specific aims succinctly, test a stated hypothesis, solve a specific problem
 * Suggest writing this in four paragraphs/parts (identiying the need, outlining your solution, specific actions, summarizing the outcomes)
+
+The relationship between your problem and your solution and the various componenents are summarized here:
+
+![Aims Diagram](Documents/Images/Aims%20Structure.png)
 
 ### Identify the need 
 * Convince everyone that there is a gap in knowledge, that should be funded.  First sentence needs to be very strong
@@ -78,3 +84,5 @@ should relate to critical need and mission of the funding agency
 * Conclude with statement of positive impact of positive expected outcomes, which should relate back to the stated objective, and addressing of the need
 
 ## Resources
+
+* [Crafting Good Specific Aims](https://www3.mdanderson.org/library/education/pdf/crafting-strong-specific-aims-handout.pdf)
