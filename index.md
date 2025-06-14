@@ -10,7 +10,11 @@ title: FellowshipWorkshopDocuments
 This site contains documents and information for a fellowship writing workshop sponsored by the [Elizabeth Weiser Caswell Diabetes Institute](https://diabetes.med.umich.edu/), first offered in Summer 2025.  If you are interested in joining the [CDI Learning Community](https://diabetes.med.umich.edu/enrichment-training-funding/training-mentoring), or participating in this or future workshops please email us at [TrainingandMentoringAdmin@umich.edu ](mailto:TrainingandMentoringAdmin@umich.edu).
 
 
-The main goal is to support trainees in writing F31 and F32 applications, so these materials are based on [PA-23-272](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html) and [PAR-25-234](https://grants.nih.gov/grants/guide/pa-files/PAR-25-234.html).
+The main goal is to support trainees in writing F30, F31 and F32 applications, so these materials are based on:
+
+- F30 for MD/PhD students [PA-25-426](https://grants.nih.gov/grants/guide/pa-files/PA-25-426.html).
+- F31 for PhD students [PA-25-422](https://grants.nih.gov/https://grants.nih.gov/grants/guide/pa-files/PA-25-422.html).
+- F32 for Postdoctoral trainees [PAR-25-234](https://grants.nih.gov/grants/guide/pa-files/PAR-25-234.html).
 
 # Organization and Plan
 
