@@ -2,12 +2,12 @@
 
 The sponsor's statement contains two key pieces of information.
 
-1.  The sponsors training record and ability to support the fellow
-2.  The sponsors view of the training plan
+1.  The sponsor's training record and ability to support the fellow
+2.  The sponsor's view of the training plan
 
 The training plan as described by the sponsor should be the same as your [Training Plan](Training_Plan.md), but this is a good opportunity to use this as a second opportunity to frame what you need for training, why it matters, and how it will be provided.  
 
-## Review Criteria
+## Review Criteria (Need to Update for new PA)
 
 * Does the candidate have the potential to develop into an independent and productive researcher? 
 * Does the candidate demonstrate commitment to a research career in the future? 
@@ -52,17 +52,6 @@ Indicate how many pre- and/or post- doctoral fellows/trainees the Sponsor/Co-spo
 
 ### E. Applicant's Qualifications and Potential for a Research Career
 Describe how the fellowship applicant is suited for this research training opportunity based on his/her academic record and research experience level. Include information about how the Research Training Plan, and your own expertise as the sponsor or co-sponsor, will assist in producing an independent researcher.  If the applicant is proposing to gain experience in a clinical trial as part of his or her research training, then the sponsor or co-sponsor should include information in the statement to document leadership of the clinical trial (in addition to the information above).
-
-## Selection of Sponsor and Institution
-
-This document is in three parts (1 page maximum).  It allows you to describe how you chose your sponsor and location:
-
-* **Rationale for Sponsor Selection:** Explain why you chose your sponsor and, if applicable, co-sponsor(s).  If a team of sponsors is proposed, clarify the unique contributions and roles of each.  Describe their prior mentoring experience.  You should describe how their expertise, research interests, and mentoring record align with your training needs and research goals.
-
-
-* **Rationale for Institution Selection:**  Here you explain why the institution is the best environment for your research and training.  You can describe the resources, facilities, and scientific community available at the institution that will support your project and career development.  Be sure to mention any unique opportunities (*e.g.*, collaborations, core facilities, seminars) that are particularly beneficial to your training.
-
-* **Alignment with Training Goals:**  Clearly connect how the sponsor(s) and institution together will help you achieve your specific training objectives and advance toward your long-term career goals
 
 ## Letters of Support 
 
