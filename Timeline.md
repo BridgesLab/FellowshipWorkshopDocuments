@@ -8,7 +8,7 @@ Please download and fill out this [worksheet](Documents/Planning_Worksheet.docx)
 
 ## Which Fellowship Should I Apply For?
 
-While our focus is on NRSA F31 proposals there are many other fellowhsips that support trainees.  Here are some other resources:
+While our focus is on NRSA F30, F31, and F32 proposals there are many other fellowhships that support trainees.  Here are some other resources:
 
 * Johns Hopkins [Database of Graduate Student Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/graduate/)
 * American Heart Association [Predoctoral Fellowships](https://professional.heart.org/en/research-programs/aha-funding-opportunities/predoctoral-fellowship)

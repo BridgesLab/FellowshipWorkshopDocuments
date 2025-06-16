@@ -7,11 +7,11 @@ Start by downloading the [Candidate Information](Documents/Candidate_Worksheet.d
 This session we will work on two documents related to introducing yourself to the reviewers.
 
 * **Biosketch**, is needed for you and for all key personnel including your sponsor(s) and key collaborators.  Template and example biosketches are [here](https://grants.nih.gov/grants-process/write-application/forms-directory/biosketch).  *Make sure to use the fellowship biosketch*.
-* **Applicant's Background** is part of the training plan, the document called *Applicant’s Background and Goals for Fellowship Training.*  This is section A: Doctoral Dissertation and Research Experience 
+* **Applicant's Background** is part of the training plan, the document called *Candidate’s Goals, Preparedness, and Potential.* 
 
-We will work on the [Goals for Fellowship Training](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) next session.
+We will work on the [Training Activities and Timeline](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) next session.
 
-## Review Criteria (NRSA)
+## Review Criteria (NRSA - Need to Update for New Criteria)
 
 * Are the candidate's academic record and research experience of high quality? 
 * Does the candidate have the potential to develop into an independent and productive researcher? 
@@ -47,9 +47,9 @@ Think of the grant as a partially complete puzzle.  First you want to describe w
 
 It is best to write this document along with the personal statement section of your biosketch.  Here are the [NIH fellowship biosketch instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/general/g.240-r&r-seniorkey-person-profile-(expanded)-form.htm#Instructions).  Both documents should highlight your background and accomplishments to date. 
 
-Very early in the application you should give the reviewer a clear sense of who you are right now, and what you hope to become by the end of this funding period.  This will be part of the document **Applicant's Background and Goals for Fellowship Training**.  The first part of the candidate information is section A.  "Doctoral Dissertation and Research Experience".  We will cover sections B (Training Goals and Objectives) and C (Activities Planned Under this Award).  We will cover these latter two sections in the [Training Plan](Training_Plan.md) document.
+Very early in the application you should give the reviewer a clear sense of who you are right now, and what you hope to become by the end of this funding period.  This will be part of the document **Candidate’s Goals, Preparedness, and Potential**.  A separate document will cover [Training Activities and Timeline](Training_Plan.md) document.
 
-> From the [NIH instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-e/general/g.430-phs-fellowship-supplemental-form.htm#2): Briefly summarize your past research experience, results, and conclusions, and describe how that experience relates to the proposed fellowship. In some cases, a proposed fellowship may build directly on previous research experiences, results, and conclusions. In other situations, past research experiences may lead a candidate to apply for a fellowship in a new or different area of research. Do not list academic courses in this section.  Include a narrative of your planned doctoral dissertation (may be preliminary).
+> From the [NIH instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/general/g.430-phs-fellowship-supplemental-form.htm#2): Briefly summarize your past research experience, results, and conclusions, and describe how that experience relates to the proposed fellowship. In some cases, a proposed fellowship may build directly on previous research experiences, results, and conclusions. In other situations, past research experiences may lead a candidate to apply for a fellowship in a new or different area of research. Do not list academic courses in this section.  Include a narrative of your planned doctoral dissertation (may be preliminary).
 
 ### Defining Yourself Now
 
@@ -95,4 +95,4 @@ As of January 25, 2025 you do not need to include scholastic performance (see [N
 ## Resources
 
 * Biosketch templates, make sure to use **fellowship biosketch** [here](https://grants.nih.gov/grants-process/write-application/forms-directory/biosketch)
-* [NIH Instructions for Forms H](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/fellowship-forms-h.pdf)
+* [NIH Instructions for Forms I](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/fellowship-forms-i.pdf)
