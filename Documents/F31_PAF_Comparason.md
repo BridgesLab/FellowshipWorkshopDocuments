@@ -23,9 +23,9 @@ As of January 25, 2025, applicants should use Fellowship Forms I (instructions c
 
 The major change is going from **five** to **three** scored review criteria:
 
-* Candidate's Goals, Preparedness and Potential (Previously two sections, Fellowship Applicant and Training Potential)
-* Research Training Plan still present
-* Commitment to Candidate, Mentoring and Training Environment (previously two sections, Sponsors, Collaborators, and Consultants and Institutional Environment & Commitment to Training)
+* **Candidate's Goals, Preparedness and Potential** (Previously two scoring criteria, Fellowship Applicant and Training Potential)
+* **Research Training Plan** is still present and mostly unchanged
+* **Commitment to Candidate, Mentoring and Training Environment** (previously two scoring criteria, Sponsors, Collaborators, and Consultants and Institutional Environment & Commitment to Training)
 
 ![Diagram of Changes](Images/NRSA_Criteria_Changes.png)
 
