@@ -33,7 +33,7 @@ For each goal make sure one or two people are responsible for supervising and as
 
 Describe for each goal/person how often you will meet and in what format.  You should also meet approximately twice a year with the entire team to discuss training and research progress.
 
-## Review Criteria
+## Review Criteria (Need to Update for new PA)
 
 * If a team of sponsors is proposed, is the team structure well justified for the mentored training plan, and are the roles of the individual members appropriate and clearly defined? 
 * Are the qualifications of any collaborator(s) and/or consultant(s), including their complementary expertise and previous experience in fostering the training of fellows, appropriate for the proposed project? 
