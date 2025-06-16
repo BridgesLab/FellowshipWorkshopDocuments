@@ -13,7 +13,7 @@ This site contains documents and information for a fellowship writing workshop s
 The main goal is to support trainees in writing F30, F31 and F32 applications, so these materials are based on:
 
 - F30 for MD/PhD students [PA-25-426](https://grants.nih.gov/grants/guide/pa-files/PA-25-426.html).
-- F31 for PhD students [PA-25-422](https://grants.nih.gov/https://grants.nih.gov/grants/guide/pa-files/PA-25-422.html).
+- F31 for PhD students [PA-25-422](https://grants.nih.gov/grants/guide/pa-files/PA-25-422.html).
 - F32 for Postdoctoral trainees [PAR-25-234](https://grants.nih.gov/grants/guide/pa-files/PAR-25-234.html).
 
 # Organization and Plan
