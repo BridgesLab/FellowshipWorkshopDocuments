@@ -49,7 +49,7 @@ It is best to write this document along with the personal statement section of y
 
 Very early in the application you should give the reviewer a clear sense of who you are right now, and what you hope to become by the end of this funding period.  This will be part of the document **Candidate’s Goals, Preparedness, and Potential**.  A separate document will cover [Training Activities and Timeline](Training_Plan.md) document.
 
-> From the [NIH instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/general/g.430-phs-fellowship-supplemental-form.htm#2): Briefly summarize your past research experience, results, and conclusions, and describe how that experience relates to the proposed fellowship. In some cases, a proposed fellowship may build directly on previous research experiences, results, and conclusions. In other situations, past research experiences may lead a candidate to apply for a fellowship in a new or different area of research. Do not list academic courses in this section.  Include a narrative of your planned doctoral dissertation (may be preliminary).
+> From the [NIH instructions](* [NIH Instructions for Forms I](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/fellowship-forms-i.pdf)): Briefly summarize your past research experience, results, and conclusions, and describe how that experience relates to the proposed fellowship. In some cases, a proposed fellowship may build directly on previous research experiences, results, and conclusions. In other situations, past research experiences may lead a candidate to apply for a fellowship in a new or different area of research. Do not list academic courses in this section.  Include a narrative of your planned doctoral dissertation (may be preliminary).
 
 ### Defining Yourself Now
 
@@ -69,6 +69,18 @@ For your current abilities and aptitudes, think of the best possible demonstrati
 ### Projecting Yourself into the Future
 
 At the end of this funding period, you should be able to define yourself as a PhD scientist with a unique set of skills and capabilities ready for the next stage of your career.  Talk to your sponsor and mentors about their perceptions of what makes an outstanding scientist in your field, and try to integrate that with your goals.  Ask about about what foundational skills are critical for a scientist in their view, and how they obtained them.  This should be more expansive than your current expertise in clear and specific ways.  If you clearly describe (or diagram) both where you are now (the completed part of the puzzle) and where you will be at the end of your PhD, there should be obvious and clear gaps that are missing between now and the future.  These will be filled by your training goals in your [Training Plan](Training_Plan.md) and are the missing pieces.  It should be obvious to the reader from the definition of yourself currently and yourself in the future what these gaps will be.  I recommend a diagram or schematic specifying specific current skills/abilities and those that require further training.
+
+## Articulating Training Goals
+
+You need to connect your prior experience, articulated here with your overall career goals.  You will frame obtaining these skills into specific goals for training.  Try to use the SMART framework for goals.  This [link](https://www.ucop.edu/local-human-resources/_files/performance-appraisal/How+to+write+SMART+Goals+v2.pdf) may be useful if you are new to this framework:
+
+* **Specific.**  What will you accomplish, what will you do?
+* **Measurable.**  How will you know you have achieved this goal?
+* **Achieveable.** Is it reasonable that you can achieve this goal? What are the necessary resources to achieve this (mentors, data, training)?
+* **Relevant.** Are these goals relevant to your overall ambitions?
+* **Time-Bound.**  Must be met within the time of your fellowship (so consider how many years of fellowship training you are requesting)
+
+These skills and goals should be primarily but not exclusively research focused.  You should generally include at least one professional development goal, for example writing, presenting, networking, mentoring, or laboratory management.  As with all your goals, frame this in the context of your current abilities.
 
 ## Your Biosketch
 
