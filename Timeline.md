@@ -28,14 +28,13 @@ You will need to write several sections that will be compiled into the final gra
 | [Project Summary/Abstract](Aims.md)| 30 lines of text | |
 | [Project Narrative](Aims.md)	| Three sentences | | 
 | Introduction to Resubmission or Revision Application (when applicable) | 1 page | Only if revising | 
-| [Applicant's Background](Candidate.md) and [Goals for Fellowship Training](Training_Plan.md) | 6 pages | Includes Research Experience, Goals, and Activities |
-| [Specific Aims](Aims.md)	| 1 page | | 
-| [Research Strategy](Research_Plan.md)	| 6 pages | | 
+| [Candidate’s Goals, Preparedness, and Potential](Candidate.md) | 3 pages  | |
+  [Training Activities and Timeline](Training_Plan.md) | 3 pages |  |
+| [Research Training Project Specific Aims](Aims.md)	| 1 page | | 
+| [Research Trainign Project Strategy](Research_Plan.md)	| 6 pages | | 
 | [Budget and Justification](Budget.md) | no explicit limit, should be ~ 1 page | |
-| [Respective Contributions](Research_Plan.md)	| 1 page | | 
-| [Selection of Sponsor and Institution](Sponsor_Statement.md#selection-of-sponsor-and-institution)	| 1 page | | 
 | [Training in the Responsible Conduct of Research](Supporting_Documents.md)	| | 
-| [Sponsor and Co-Sponsor Statements](Sponsor_Statement.md)	| 6 pages | | 
+| [Sponsor(s) Commitment](Sponsor_Statement.md)	| 6 pages | | 
 | [Letters of Support from Collaborators, Contributors, and Consultants](Supporting_Documents.md)	 | | 
 | Description of Institutional Environment and Commitment to Training | 2 pages | 
 | [Biographical Sketches](Candidate.md) | 5 pages | Candidate and all key personnel |  	

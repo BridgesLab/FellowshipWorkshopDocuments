@@ -1,9 +1,23 @@
 # Comparing and Contrasting the Old and New PAs for F31
 
-As of June 14th, 2025 there is a new PAF for F31.
+As of June 14th, 2025 there is a new PAF for F31.  These are my thoughts on navigating preparing an application for this new program announcement
 
 * Old PAF https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html
-* New PAF https://grants.nih.gov/grants/guide/pa-files/PA-25-422.htm
+* New PAF https://grants.nih.gov/grants/guide/pa-files/PA-25-422.html
+
+## Eligibility
+
+Eligibility appears to be unchanged from the previous program announcement.
+
+## Forms to Use
+
+As of January 25, 2025, applicants should use Fellowship Forms I (instructions can be found [here](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/fellowship-forms-i.pdf)).  Some key points:
+
+* *Candidate’s Goals, Preparedness, and Potential* (formerly Applicant’s Background and Goals for Fellowship Training) is now **three pages**.  No fear though, there is a new seaprate document *Training Activities and Timeline* that is also **three pages**.
+* Grades are no longer required (for more details see  [Biosketch Information](../Candidate.md#your-biosketch)).
+* The former *Research Strategy* section is now the *Research Training Project Strategy*, emphasizing the training potential of the project rather than just the research itself
+* *Sponsor and Co-Sponsor Statements*: This is now consolidated and renamed as *Sponsor(s) Commitment*.
+* The *Selection of Sponsor and Institution* and *Respective Contributions* sections have been removed.
 
 ## Review Criteria
 
@@ -13,7 +27,7 @@ The major change is going from **five** to **three** scored review criteria:
 * Research Training Plan still present
 * Commitment to Candidate, Mentoring and Training Environment (previously two sections, Sponsors, Collaborators, and Consultants and Institutional Environment & Commitment to Training)
 
-<img src="Images/NRSA_Criteria_Changes.png" alt="Diagram showing the transition from five to three scored review criteria for F31 applications. The diagram visually groups the old criteria—Fellowship Applicant, Training Potential, Sponsors, Collaborators and Consultants, Institutional Environment and Commitment to Training—into the new categories: Candidate's Goals, Preparedness and Potential, Research Training Plan, and Commitment to Candidate, Mentoring and Training Environment. The tone is informative and neutral." width="400" />
+![Diagram of Changes](Images/NRSA_Criteria_Changes.png)
 
 The specfic changes in the review criteria, and my best guess on how they are in alignment with the prior criteria are below:
 
