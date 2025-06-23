@@ -1,0 +1,12 @@
+name: pubmed_alert_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - feedparser
+  - pip
+  - biopython
+  - python-dotenv
+  - pip:
+      - openai  # Only needed if you're summarizing abstracts with GPT
