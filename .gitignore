@@ -4,3 +4,7 @@
 .DS_Store
 .DS_Store
 .Rhistory
+Tools/PubmedAlerts/.env
+Tools/PubmedAlerts/CDI-Trainees.csv
+Tools/PubmedAlerts/feeds.txt
+Tools/PubmedAlerts/*pubmed_report.md
