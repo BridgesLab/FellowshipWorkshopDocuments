@@ -4,3 +4,4 @@ Tools/PubmedAlerts/.env
 Tools/PubmedAlerts/CDI-Trainees.csv
 Tools/PubmedAlerts/feeds.txt
 Tools/PubmedAlerts/*pubmed_report.md
+Tools/NIHAwards/*.csv
