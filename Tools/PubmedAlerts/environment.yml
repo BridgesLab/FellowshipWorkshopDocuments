@@ -8,5 +8,8 @@ dependencies:
   - pip
   - biopython
   - python-dotenv
+  - pandas 
+  - fuzzywuzzy 
+  - python-Levenshtein
   - pip:
       - openai  # Only needed if you're summarizing abstracts with GPT
