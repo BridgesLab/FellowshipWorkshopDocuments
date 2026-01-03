@@ -45,6 +45,7 @@ These materials are free for anyone to use without attribution and are provided 
 
 # Other Resources
 
+* Focus on Fellowships video series https://grants.nih.gov/news-events/nih-extramural-nexus-news/2025/12/updated-nih-fellowship-resources-are-available
 * Program Announcement for predoctoral awards [NIH NRSA F31](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html).
 * Program Announcement for postdoctoral awards [NIH NRSA F32](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html).
 * Arjun Raj's excellent ["So you want to apply for a PhD fellowship?"](https://docs.google.com/document/d/1WTMW3LZl1ifpFE1ddH1lvfijmmMsFwZggwsuQcotV_A/edit).
