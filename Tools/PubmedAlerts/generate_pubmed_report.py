@@ -21,6 +21,10 @@ def load_filtered_names(filepath):
     return names
 
 def search_author_papers(author_name, affiliation="University of Michigan", retmax=20):
+    # Skip empty or whitespace-only names
+    if not author_name or not author_name.strip():
+        return []
+    
     # Format author name: assume "First Middle Last" or "Last, First"
     parts = author_name.split()
     last = parts[-1]
