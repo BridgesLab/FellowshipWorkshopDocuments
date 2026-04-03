@@ -18,7 +18,7 @@ The main goal is to support trainees in writing F30, F31 and F32 applications, s
 
 # Organization and Plan
 
-We will host workshops every other week with a brief faculty talk followed by peer review of each other's documents.  We will meet *in person* from 11-12 at North SPH I G840.  Lunch will be provided.
+We will host workshops every other week with a brief faculty talk followed by peer review of each other's documents.  We will meet *in person* at a location to be determined.  Lunch will be provided.
 
 ## Workshop structure
 
@@ -30,7 +30,7 @@ We will host workshops every other week with a brief faculty talk followed by pe
 
 ## Schedule
 
-The schedule is based on a presumed cycle 1 submission date of **August 8th, 2025**.
+The schedule is based on a presumed cycle 1 submission date of **August 8th, 2026**.
 
 | Session | Date | 
 | ------------- | ------------- |
@@ -46,8 +46,8 @@ These materials are free for anyone to use without attribution and are provided 
 # Other Resources
 
 * Focus on Fellowships video series https://grants.nih.gov/news-events/nih-extramural-nexus-news/2025/12/updated-nih-fellowship-resources-are-available
-* Program Announcement for predoctoral awards [NIH NRSA F31](https://grants.nih.gov/grants/guide/pa-files/PA-23-272.html).
-* Program Announcement for postdoctoral awards [NIH NRSA F32](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html).
+* Fellowship instructions https://grants.nih.gov/grants/how-to-apply-application-g 
+uide/forms-i/fellowship-forms-i.pdf
 * Arjun Raj's excellent ["So you want to apply for a PhD fellowship?"](https://docs.google.com/document/d/1WTMW3LZl1ifpFE1ddH1lvfijmmMsFwZggwsuQcotV_A/edit).
 
 
