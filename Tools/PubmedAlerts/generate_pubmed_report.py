@@ -20,22 +20,32 @@ def load_filtered_names(filepath):
                 names.append(row['Name'].strip())
     return names
 
-def search_author_papers(author_name, affiliation="University of Michigan", retmax=20):
-    # Skip empty or whitespace-only names
+def search_author_papers(author_name, affiliation="University of Michigan", retmax=20, max_retries=5):
     if not author_name or not author_name.strip():
         return []
-    
-    # Format author name: assume "First Middle Last" or "Last, First"
+
     parts = author_name.split()
     last = parts[-1]
     first_initial = parts[0][0]
     query = f'{last} {first_initial}[Author] AND "{affiliation}"[Affiliation]'
+
+    for attempt in range(max_retries):
+        try:
+            handle = Entrez.esearch(db="pubmed", term=query, retmax=retmax, sort='pub date')
+            record = Entrez.read(handle)
+            handle.close()
+            return record['IdList']
+        except RuntimeError as e:
+            if "502" in str(e) or "Backend" in str(e):
+                wait = 2 ** attempt  # 1s, 2s, 4s, 8s, 16s
+                print(f"    ⚠️  PubMed API error (attempt {attempt+1}/{max_retries}): {e}")
+                print(f"    ⏳ Retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                raise  # re-raise if it's a different error
     
-    handle = Entrez.esearch(db="pubmed", term=query, retmax=retmax, sort='pub date')
-    record = Entrez.read(handle)
-    handle.close()
-    
-    return record['IdList']
+    print(f"    ❌ Failed to fetch results for '{author_name}' after {max_retries} attempts. Skipping.")
+    return []
 
 def fetch_articles(pmid_list):
     if not pmid_list:

@@ -27,6 +27,8 @@ This should generate a file called **YYYY-MM-DD-pubmed_report.md**, marked to wh
 
 To parse this file try this prompt:
 
+Parse the attached document based on these rules
+
 ### Document structure rules
 
 Each publication begins with a line starting with ## (this is the title).
