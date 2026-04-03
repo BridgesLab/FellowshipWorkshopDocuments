@@ -21,7 +21,7 @@ Key structural changes:
   - Remove rows referencing deleted criteria: adequate research funds, biological variables, professional skills for career transition
   - Remove link to `Sponsor_Statement.md#selection-of-sponsor-and-institution` (section no longer exists)
 
-- [ ] **`Research_Strategy.md`** — Remove deleted section and stale criterion
+- [x] **`Research_Strategy.md`** — Remove deleted section and stale criterion
   - Remove description of "Relative Contributions" as a required 1-page document (section was removed in new PA)
   - Remove "Has the applicant presented adequate plans to address relevant biological variables, such as sex..." from review criteria (explicitly removed)
   - Update page title/description: "Research Strategy" → "Research Training Project Strategy"
