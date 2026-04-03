@@ -12,10 +12,10 @@ Work with your unit's grants administrator for this, they should know these numb
 
 ### Stipend
 
-State the stipend amount requested, referencing the current [NIH NRSA stipend rates](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-104.html) (not your salary or UM stipend).
+State the stipend amount requested, referencing the current [NIH NRSA stipend rates](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-105.html) (not your salary or UM stipend).
 
-* For F31: Use the predoctoral stipend rate (currently $28,224).
-* For F32: Use the appropriate postdoctoral stipend rate based on years of experience.
+* For F31: Use the predoctoral stipend rate (currently $28,788).
+* For F32: Use the appropriate postdoctoral stipend rate based on years of postdoctoral experience (Year 1: $62,232; Year 2: $62,652; Year 3: $63,120; see [NOT-OD-25-105](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-105.html)).
 
 ### Tuition and Fees (if needed)
 
@@ -38,4 +38,4 @@ If requesting, state the amount (up to $3,000/year) and specify that it is for c
 ## Resources
 
 * [Allowable and un-allowable expenses](https://grants.nih.gov/grants/policy/nihgps/html5/section_11/11.2.9_allowable_and_unallowable_costs.htm)
-* [Full Fellowship instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/fellowship-forms-h.pdf)
+* [Full Fellowship instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/fellowship-forms-i.pdf)

@@ -55,9 +55,9 @@ Key structural changes:
   - Update "Other Resources" PA links: PA-23-272 → PA-25-422 (F31), PA-23-262 → PA-25-423 (F32)
   - Update schedule dates and submission deadline for 2026 cycle
 
-- [ ] **`Budget.md`** — Fix link and verify rates
+- [x] **`Budget.md`** — Fix link and verify rates
   - Update resources link from `fellowship-forms-h.pdf` → `fellowship-forms-i.pdf`
-  - Verify current F31 stipend rate ($28,224) against latest NIH NRSA stipend notice
+  - Updated stipend rates per [NOT-OD-25-105](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-105.html): F31 $28,788; F32 Year 1 $62,232 / Year 2 $62,652 / Year 3 $63,120
 
 ---
 
