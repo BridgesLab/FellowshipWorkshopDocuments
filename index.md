@@ -39,15 +39,14 @@ The schedule is based on a presumed cycle 1 submission date of **August 8th, 202
 | [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | June 13th | 
 | [Aims Page and Abstract](Aims.md) |  June 27th | 
 | [Supporting Documentation](Supporting_Documents) | July 11th |
-| [Research Strategy](Research_Stragegy.md)| July 25th |
+| [Research Strategy](Research_Strategy.md)| July 25th |
 
 These materials are free for anyone to use without attribution and are provided under a [CC-0 License](LICENSE.md)
 
 # Other Resources
 
 * Focus on Fellowships video series https://grants.nih.gov/news-events/nih-extramural-nexus-news/2025/12/updated-nih-fellowship-resources-are-available
-* Fellowship instructions https://grants.nih.gov/grants/how-to-apply-application-g 
-uide/forms-i/fellowship-forms-i.pdf
+* [Fellowship instructions (Forms-I)](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/fellowship-forms-i.pdf)
 * Arjun Raj's excellent ["So you want to apply for a PhD fellowship?"](https://docs.google.com/document/d/1WTMW3LZl1ifpFE1ddH1lvfijmmMsFwZggwsuQcotV_A/edit).
 
 

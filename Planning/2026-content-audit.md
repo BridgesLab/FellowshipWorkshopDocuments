@@ -51,9 +51,10 @@ Key structural changes:
 
 ### Low Priority
 
-- [ ] **`index.md`** — Update links and schedule dates
-  - Update "Other Resources" PA links: PA-23-272 → PA-25-422 (F31), PA-23-262 → PA-25-423 (F32)
-  - Update schedule dates and submission deadline for 2026 cycle
+- [x] **`index.md`** — Update links and schedule dates
+  - PA links and 2026 submission deadline were already updated on this branch
+  - Fixed typo in schedule table: `Research_Stragegy.md` → `Research_Strategy.md`
+  - Fixed broken fellowship instructions URL (had a line-break mid-URL)
 
 - [x] **`Budget.md`** — Fix link and verify rates
   - Update resources link from `fellowship-forms-h.pdf` → `fellowship-forms-i.pdf`
