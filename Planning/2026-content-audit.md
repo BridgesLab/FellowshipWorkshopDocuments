@@ -1,0 +1,62 @@
+# 2026 Course Prep: Content Audit for New PA Forms-I
+
+Materials need to be updated to reflect the new fellowship application structure effective January 25, 2025 (PA-25-422 for F31, PA-25-423 for F32, Forms-I instructions).
+
+Key structural changes:
+- Review criteria consolidated from **5 → 3** scored criteria
+- New document names ("Candidate's Goals, Preparedness, and Potential", "Training Activities and Timeline", "Research Training Project Strategy", "Sponsor(s) Commitment")
+- **Removed sections**: Respective Contributions, Selection of Sponsor and Institution
+- **Removed criteria**: biological variables (sex), adequate research funds, professional skills for career transition
+
+---
+
+## Tasks
+
+### High Priority
+
+- [ ] **`Review_Criteria_NRSA.md`** — Complete rewrite around new 3-criteria system
+  - Remove all old sub-questions
+  - Structure around: (1) Candidate's Goals, Preparedness, and Potential; (2) Research Training Plan; (3) Commitment to Candidate, Mentoring and Training Environment
+  - Remove rows referencing deleted criteria: adequate research funds, biological variables, professional skills for career transition
+  - Remove link to `Sponsor_Statement.md#selection-of-sponsor-and-institution` (section no longer exists)
+
+- [ ] **`Research_Strategy.md`** — Remove deleted section and stale criterion
+  - Remove description of "Relative Contributions" as a required 1-page document (section was removed in new PA)
+  - Remove "Has the applicant presented adequate plans to address relevant biological variables, such as sex..." from review criteria (explicitly removed)
+  - Update page title/description: "Research Strategy" → "Research Training Project Strategy"
+
+### Medium Priority
+
+- [ ] **`Candidate.md`** — Replace old review criteria with new criteria language
+  - Remove the 7 old sub-questions under "Review Criteria (NRSA - Need to Update for New Criteria)"
+  - Replace with relevant sub-questions from the new **Candidate's Goals, Preparedness, and Potential** criterion
+
+- [ ] **`Training_Plan.md`** — Replace old review criteria with new criteria language
+  - Remove the 12 old sub-questions under "Review Criteria (Need to Update for new PA)"
+  - Replace with relevant sub-questions from the new **Research Training Plan** criterion
+  - Remove "Will the training plan provide the professional skills needed for the candidate to transition..." (criterion was removed)
+
+- [ ] **`Sponsor_Statement.md`** — Update criteria and section format
+  - Remove the 14 old sub-questions under "Review Criteria (Need to Update for new PA)"
+  - Replace with relevant sub-questions from the new **Commitment to Candidate, Mentoring and Training Environment** criterion
+  - Update "Suggested Format" sections A–E to reflect the new **Sponsor(s) Commitment** structure per Forms-I
+  - Update instructions link from old forms-e URL to Forms-I: `https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/fellowship-forms-i.pdf`
+
+### Low Priority
+
+- [ ] **`index.md`** — Update links and schedule dates
+  - Update "Other Resources" PA links: PA-23-272 → PA-25-422 (F31), PA-23-262 → PA-25-423 (F32)
+  - Update schedule dates and submission deadline for 2026 cycle
+
+- [ ] **`Budget.md`** — Fix link and verify rates
+  - Update resources link from `fellowship-forms-h.pdf` → `fellowship-forms-i.pdf`
+  - Verify current F31 stipend rate ($28,224) against latest NIH NRSA stipend notice
+
+---
+
+## Reference Links
+
+- [PA-25-422 (F31)](https://grants.nih.gov/grants/guide/pa-files/PA-25-422.html)
+- [PA-25-423 (F32)](https://grants.nih.gov/grants/guide/pa-files/PA-25-423.html)
+- [Fellowship Forms-I Instructions (PDF)](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/fellowship-forms-i.pdf)
+- [Internal comparison doc](F31_PAF_Comparason.md)
