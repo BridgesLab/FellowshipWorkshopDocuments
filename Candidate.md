@@ -6,7 +6,7 @@ Start by downloading the [Candidate Information](Documents/Candidate_Worksheet.d
 
 This session we will work on two documents related to introducing yourself to the reviewers.
 
-* **Biosketch**, is needed for you and for all key personnel including your sponsor(s) and key collaborators.  Template and example biosketches are [here](https://grants.nih.gov/grants-process/write-application/forms-directory/biosketch).  *Make sure to use the fellowship biosketch*.
+* **Biosketch**, is needed for you and for all key personnel including your sponsor(s) and key collaborators.  NIH now uses a [Biographical Sketch Common Form](https://grants.nih.gov/grants-process/write-application/forms-directory/biographical-sketch-common-form) for all applicants (no separate fellowship biosketch).  Biosketches must be prepared using **SciENcv** and require an **ORCID ID** linked to your eRA Commons profile.
 * **Applicant's Background** is part of the training plan, the document called *Candidate’s Goals, Preparedness, and Potential.* 
 
 We will work on the [Training Activities and Timeline](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) next session.
@@ -45,7 +45,7 @@ We will work on the [Training Activities and Timeline](Training_Plan.md) and [Sp
 
 Think of the grant as a partially complete puzzle.  First you want to describe what pieces are in place.  This is who you are as a candidate and shoule be in the introduction.  Then there should be a clear description of what *you* think the puzzle will look like when its complete.  This is you as a trianed scientist after this training is complete.  The missing pieces should be what goes in your training plan, and should be obvious from the descriptions of you now, and what you hope to become.
 
-It is best to write this document along with the personal statement section of your biosketch.  Here are the [NIH fellowship biosketch instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/general/g.240-r&r-seniorkey-person-profile-(expanded)-form.htm#Instructions).  Both documents should highlight your background and accomplishments to date. 
+It is best to write this document along with the personal statement section of your biosketch.  Both documents should highlight your background and accomplishments to date. 
 
 Very early in the application you should give the reviewer a clear sense of who you are right now, and what you hope to become by the end of this funding period.  This will be part of the document **Candidate’s Goals, Preparedness, and Potential**.  A separate document will cover [Training Activities and Timeline](Training_Plan.md) document.
 
@@ -106,5 +106,5 @@ As of January 25, 2025 you do not need to include scholastic performance (see [N
 
 ## Resources
 
-* Biosketch templates, make sure to use **fellowship biosketch** [here](https://grants.nih.gov/grants-process/write-application/forms-directory/biosketch)
+* [Biographical Sketch Common Form](https://grants.nih.gov/grants-process/write-application/forms-directory/biographical-sketch-common-form) — must be prepared via SciENcv; ORCID ID required
 * [NIH Instructions for Forms I](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/fellowship-forms-i.pdf)

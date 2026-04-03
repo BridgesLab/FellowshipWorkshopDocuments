@@ -7,6 +7,7 @@ Key structural changes:
 - New document names ("Candidate's Goals, Preparedness, and Potential", "Training Activities and Timeline", "Research Training Project Strategy", "Sponsor(s) Commitment")
 - **Removed sections**: Respective Contributions, Selection of Sponsor and Institution
 - **Removed criteria**: biological variables (sex), adequate research funds, professional skills for career transition
+- **Biosketch**: NIH now uses a Biographical Sketch Common Form (replacing separate fellowship biosketch); must be prepared via SciENcv; ORCID ID required and must be linked to eRA Commons profile. Effective for applications due on or after January 25, 2026; grace period (warnings only, no withdrawals) through May 2026 per NOT-OD-26-033.
 
 ---
 
@@ -30,6 +31,12 @@ Key structural changes:
 - [ ] **`Candidate.md`** — Replace old review criteria with new criteria language
   - Remove the 7 old sub-questions under "Review Criteria (NRSA - Need to Update for New Criteria)"
   - Replace with relevant sub-questions from the new **Candidate's Goals, Preparedness, and Potential** criterion
+
+- [ ] **`Candidate.md`** — Update biosketch guidance for NIH Common Form
+  - Line 9: Remove "Make sure to use the fellowship biosketch" — no longer a separate fellowship form; update link to [Biographical Sketch Common Form](https://grants.nih.gov/grants-process/write-application/forms-directory/biographical-sketch-common-form)
+  - Line 48: Remove link to old forms-h biosketch instructions
+  - Line 109: Update Resources entry — "fellowship biosketch" language and old link both need replacing
+  - Add that biosketches must now be prepared via **SciENcv** and require a linked **ORCID ID**
 
 - [ ] **`Training_Plan.md`** — Replace old review criteria with new criteria language
   - Remove the 12 old sub-questions under "Review Criteria (Need to Update for new PA)"
@@ -59,4 +66,6 @@ Key structural changes:
 - [PA-25-422 (F31)](https://grants.nih.gov/grants/guide/pa-files/PA-25-422.html)
 - [PA-25-423 (F32)](https://grants.nih.gov/grants/guide/pa-files/PA-25-423.html)
 - [Fellowship Forms-I Instructions (PDF)](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/fellowship-forms-i.pdf)
+- [Biographical Sketch Common Form](https://grants.nih.gov/grants-process/write-application/forms-directory/biographical-sketch-common-form)
+- [NOT-OD-26-033 (biosketch grace period)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-033.html)
 - [Internal comparison doc](F31_PAF_Comparason.md)
