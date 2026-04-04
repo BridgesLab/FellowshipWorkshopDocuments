@@ -41,6 +41,8 @@ If your research involves human subjects you must complete a Human Subjects sect
 
 If you are not involving human subjects, you must still address this section by stating that no human subjects are involved and providing a brief justification.
 
+**Review consideration (not scored separately):** Reviewers will evaluate protections for human subjects as an additional review criterion. The five elements above map directly to what they assess.
+
 ### Vertebrate Animals
 
 If your research involves live vertebrate animals you must complete a Vertebrate Animals section addressing all three of the following:
@@ -52,6 +54,8 @@ If your research involves live vertebrate animals you must complete a Vertebrate
 Methods of euthanasia must also be described in a separate section of the application; if the method is not consistent with AVMA Guidelines, provide justification.
 
 If you are not using vertebrate animals, state this explicitly.
+
+**Review consideration (not scored separately):** Reviewers will evaluate vertebrate animal use as an additional review criterion. The three elements above map directly to what they assess.
 
 ### Training in Responsible Conduct of Research
 

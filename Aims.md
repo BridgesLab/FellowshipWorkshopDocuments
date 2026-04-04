@@ -10,13 +10,13 @@ This session we will work on three research-related documents with increasing le
 * **Abstract** - The abstract must be <30 lines of text.
 * **Aims Page** - A page summarizing the research proposal
 
-## Review Criteria
+## Review Criteria (NRSA)
 
-* Has the applicant included plans to address weaknesses in the rigor of prior research that serves as the key support for the proposed project? 
-* Has the applicant presented strategies to ensure a robust and unbiased approach, as appropriate for the work proposed?
-* Is the research project consistent with the candidate’s stage of research development? 
-* Is the proposed research project of high scientific quality, and is it well integrated with the proposed research training plan? 
-* Is the prior research that serves as the key support for the proposed project rigorous? 
+See the full [NRSA Review Criteria](Review_Criteria_NRSA.md) for context. The criteria most relevant to this section are:
+
+*[Criterion 2: Research Training Plan](Review_Criteria_NRSA.md#criterion-2-research-training-plan)*
+
+* Assess the rigor and feasibility of the research training project and how completion of the project will contribute to the development of the candidate as a research scientist. 
 
 ## Suggestions and Ideas for Aims Page
 *  Must contain everything that is exciting and important, but not in much detail

@@ -11,15 +11,19 @@ This session we will work on two documents related to introducing yourself to th
 
 We will work on the [Training Activities and Timeline](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) next session.
 
-## Review Criteria (NRSA - Need to Update for New Criteria)
+## Review Criteria (NRSA)
 
-* Are the candidate's academic record and research experience of high quality? 
-* Does the candidate have the potential to develop into an independent and productive researcher? 
-* Does the candidate demonstrate commitment to a research career in the future?
-* Does the training plan take advantage of the candidate’s strengths and address gaps in needed skills? Does the training plan document a clear need for, and value of, the proposed training?
-* Does the proposed training have the potential to serve as a sound foundation that will clearly enhance the candidate’s ability to develop into a productive researcher? 
-* (For clinical training) Is there evidence of a match between the research and clinical interests (if applicable) of the candidate and the sponsor(s)? Do(es) the sponsor(s) demonstrate an understanding of the candidate’s training needs as well as the ability and commitment to assist in meeting these needs? 
-* (For clinical training) If proposed, will the clinical trial experience contribute to the proposed project and/or the applicant’s research training? 
+See the full [NRSA Review Criteria](Review_Criteria_NRSA.md) for context. The criteria most relevant to this section are:
+
+*[Criterion 1: Candidate’s Goals, Preparedness and Potential](Review_Criteria_NRSA.md#criterion-1-candidates-goals-preparedness-and-potential)*
+
+* Discuss the candidate’s previous educational, scientific and professional experience in terms of how it prepares the candidate for the proposed research training plan. Consider the context, for example, the candidate’s stage of training and the opportunities available.
+* Assess whether the candidate and sponsor statements as well as the referee letters provide convincing evidence that the candidate possesses qualities (such as scientific understanding, creativity, curiosity, resourcefulness and drive) that will improve the likelihood of a successful research training outcome.
+* Consider the candidate’s potential to benefit from the fellowship research training plan and to transition to the next career stage in the biomedical research workforce.
+
+*[Criterion 3: Commitment to Candidate, Mentoring and Training Environment](Review_Criteria_NRSA.md#criterion-3-commitment-to-candidate-mentoring-and-training-environment)*
+
+* Assess whether the sponsor(s) presents a strong mentoring plan appropriate to the needs and goals of the candidate. 
 
 ## Review Criteria - [K99/R00](https://grants.nih.gov/grants/guide/pa-files/PA-24-193.html#_Section%20V.%20Application%20Review%20Information)
 

@@ -28,7 +28,7 @@ Key structural changes:
 
 ### Medium Priority
 
-- [ ] **`Candidate.md`** — Replace old review criteria with new criteria language
+- [x] **`Candidate.md`** — Replace old review criteria with new criteria language
   - Remove the 7 old sub-questions under "Review Criteria (NRSA - Need to Update for New Criteria)"
   - Replace with relevant sub-questions from the new **Candidate's Goals, Preparedness, and Potential** criterion
 
@@ -38,12 +38,12 @@ Key structural changes:
   - Line 109: Update Resources entry — "fellowship biosketch" language and old link both need replacing
   - Add that biosketches must now be prepared via **SciENcv** and require a linked **ORCID ID**
 
-- [ ] **`Training_Plan.md`** — Replace old review criteria with new criteria language
+- [x] **`Training_Plan.md`** — Replace old review criteria with new criteria language
   - Remove the 12 old sub-questions under "Review Criteria (Need to Update for new PA)"
   - Replace with relevant sub-questions from the new **Research Training Plan** criterion
   - Remove "Will the training plan provide the professional skills needed for the candidate to transition..." (criterion was removed)
 
-- [ ] **`Sponsor_Statement.md`** — Update criteria and section format
+- [x] **`Sponsor_Statement.md`** — Update criteria; section format (Suggested Format A-E) still needs updating to reflect Sponsor(s) Commitment structure per Forms-I
   - Remove the 14 old sub-questions under "Review Criteria (Need to Update for new PA)"
   - Replace with relevant sub-questions from the new **Commitment to Candidate, Mentoring and Training Environment** criterion
   - Update "Suggested Format" sections A–E to reflect the new **Sponsor(s) Commitment** structure per Forms-I
