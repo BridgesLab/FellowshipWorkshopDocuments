@@ -41,6 +41,6 @@ You will need to write several sections that will be compiled into the final gra
 
 ## Timeline for Writing and Review
 
-Our goal will be to read each of the candidate introduction, training plan, and specific aims twice.  Built into the structure of the workshops the plan is to review them in this order:
+Our goal will be to read the candidate background, training plan, and specific aims twice each.  Documents are drafted in the two weeks after each session and revised after peer review.  The planned order is:
 
 ![Timeline Diagram](Documents/Images/Workshop%20Timeline.png)

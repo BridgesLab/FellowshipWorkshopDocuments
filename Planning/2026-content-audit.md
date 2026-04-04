@@ -59,6 +59,14 @@ Key structural changes:
   - Update resources link from `fellowship-forms-h.pdf` → `fellowship-forms-i.pdf`
   - Updated stipend rates per [NOT-OD-25-105](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-105.html): F31 $28,788; F32 Year 1 $62,232 / Year 2 $62,652 / Year 3 $63,120
 
+### Manual Review Required
+
+- [ ] **`Documents/Images/`** — Review workshop diagrams and timeline images for accuracy against new PA structure; source files are Adobe Illustrator PDFs with PNG exports. Images referenced in the site include:
+  - `Workshop Structure.png` / `.ai` — used in `index.md`
+  - `Workshop Timeline.png` / `.ai` — used in `Timeline.md`
+  - `Aims Structure.png` / `.ai` — used in `Aims.md`
+  - `NRSA_Criteria_Changes.png` — used in `Documents/F31_PAF_Comparason.md`; criteria diagram may need updating to reflect new 3-criterion system
+
 ---
 
 ## Reference Links
