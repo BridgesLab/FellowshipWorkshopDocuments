@@ -15,7 +15,7 @@ Key structural changes:
 
 ### High Priority
 
-- [ ] **`Review_Criteria_NRSA.md`** — Complete rewrite around new 3-criteria system
+- [x] **`Review_Criteria_NRSA.md`** — Complete rewrite around new 3-criteria system
   - Remove all old sub-questions
   - Structure around: (1) Candidate's Goals, Preparedness, and Potential; (2) Research Training Plan; (3) Commitment to Candidate, Mentoring and Training Environment
   - Remove rows referencing deleted criteria: adequate research funds, biological variables, professional skills for career transition

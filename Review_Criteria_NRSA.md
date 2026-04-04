@@ -1,35 +1,42 @@
 # Review Criteria (NRSA)
 
-| Question  | Where to Put the Answer |
-| ------------- | ------------- |
-| Are the candidate's academic record and research experience of high quality? | Candidate Biosketch, [Candidate Introduction](Candidate.md) |
-| Does the candidate have the potential to develop into an independent and productive researcher? | [Candidate Introduction](Candidate.md), [Sponsor Statement](Sponsor_Statement.md), Letters of Reference | 
-| Does the candidate demonstrate commitment to a research career in the future? | [Candidate Introduction](Candidate.md), [Sponsor Statement](Sponsor_Statement.md), Letters of Reference | 
-| Are the sponsor(s) research qualifications (including recent publications) and track record of mentoring individuals at a similar stage appropriate for the needs of the candidate? | [Sponsor Statement](Sponsor_Statement.md), Sponsor Biosketch |
-| Is there evidence of adequate research funds to support the candidate’s proposed research project and training for the duration of the research component of the fellowship? | [Sponsor Statement](Sponsor_Statement.md) |
-| If a team of sponsors is proposed, is the team structure well justified for the mentored training plan, and are the roles of the individual members appropriate and clearly defined? | [Sponsor Statement](Sponsor_Statement.md), [Training Plan](Training_Plan.md) |
-| Are the qualifications of any collaborator(s) and/or consultant(s), including their complementary expertise and previous experience in fostering the training of fellows, appropriate for the proposed project? | [Training Plan](Training_Plan.md), Collaborator Letters/Biosketches |
-| Does the sponsor's research and training record, as well as mentoring statement, indicate that the candidate will receive exceptional training in the proposed research area and have the opportunity to publish high quality papers and present research data at national meetings as the project progresses? | [Sponsor Statement](Sponsor_Statement.md), Sponsor Biosketch |
-| Is the proposed research project of high scientific quality, and is it well integrated with the proposed research training plan? | [Aims](Aims.md), [Training Plan](Training_Plan.md), [Research Plan](Research_Strategy.md) |
-| Is the prior research that serves as the key support for the proposed project rigorous? |[Aims](Aims.md), [Research Plan](Research_Strategy.md) |
-| Has the applicant included plans to address weaknesses in the rigor of prior research that serves as the key support for the proposed project? |[Aims](Aims.md), [Research Plan](Research_Strategy.md) |
-| Has the applicant presented strategies to ensure a robust and unbiased approach, as appropriate for the work proposed? | [Aims](Aims.md)[Research Plan](Research_Strategy.md) | 
-| Has the applicant presented adequate plans to address relevant biological variables, such as sex, for studies in vertebrate animals or human subjects? | [Research Plan](Research_Strategy.md) |
-| Is the research project consistent with the candidate’s stage of research development? | [Aims](Aims.md), [Research Plan](Research_Strategy.md), [Training Plan](Training_Plan.md) |
-| Is the proposed time frame feasible to accomplish the proposed training? | [Research Plan](Research_Strategy.md), [Training Plan](Training_Plan.md) |
-| Does the training plan provide adequate opportunities to present and publish research findings and meet with scientists in the community at national meetings as the work progresses? | [Training Plan](Training_Plan.md), [Sponsor Statement](Sponsor_Statement.md)
-| Will the training plan provide the professional skills needed for the candidate to transition to the next stage of their research career? | [Training Plan](Training_Plan.md) |
-| Are the proposed research project and training plan likely to provide the candidate with the requisite individualized and mentored experiences in order to obtain appropriate skills for a research career? | [Training Plan](Training_Plan.md), [Sponsor Statement](Sponsor_Statement.md) |
-| Does the training plan take advantage of the candidate’s strengths and address gaps in needed skills? Does the training plan document a clear need for, and value of, the proposed training? | [Candidate Introduction](Candidate.md), [Training Plan](Training_Plan.md), [Sponsor Statement](Sponsor_Statement.md) |
-| Does the proposed training have the potential to serve as a sound foundation that will clearly enhance the candidate’s ability to develop into a productive researcher? | [Candidate Introduction](Candidate.md), [Training Plan](Training_Plan.md), [Sponsor Statement](Sponsor_Statement.md) |
-| Are the research facilities, resources (e.g., equipment, laboratory space, computer time, subject populations, clinical training settings) and training opportunities (e.g. seminars, workshops, professional development opportunities) adequate and appropriate? | Facilities/Equipment, [Training Plan](Training_Plan.md), [Sponsor Statement](Sponsor_Statement.md) | 
-| Is the institutional environment for the candidate’s scientific development of high quality? | Facilities/Equipment, [Candidate Introduction](Candidate.md), [Sponsor Statement](Sponsor_Statement.md), [Selection of Sponsor and Institution](Sponsor_Statement.md#selection-of-sponsor-and-institution) | 
-| Is there appropriate institutional commitment to fostering the candidate’s mentored training? | [Sponsor Statement](Sponsor_Statement.md) | 
+These criteria apply equally to F30 ([PA-25-426](https://grants.nih.gov/grants/guide/pa-files/PA-25-426.html)), F31 ([PA-25-422](https://grants.nih.gov/grants/guide/pa-files/PA-25-422.html)), and F32 ([PA-25-423](https://grants.nih.gov/grants/guide/pa-files/PA-25-423.html)). There are no differences in the scored criteria across award types. Items marked *(Clinical trials only)* apply only to applications proposing clinical trial experience as part of the research training.
 
-## For clinical trials only
+Reviewers assign an **overall impact score** reflecting the likelihood that the fellowship will enhance the candidate's potential for, and commitment to, a productive independent scientific research career.  Candidates will also be scored in each of these three criteria.
 
-| Question  | Where to Put the Answer |
-| ------------- | ------------- |
-| Is there evidence of a match between the research and clinical interests (if applicable) of the candidate and the sponsor(s)? Do(es) the sponsor(s) demonstrate an understanding of the candidate’s training needs as well as the ability and commitment to assist in meeting these needs? | [Candidate Introduction](Candidate.md), [Sponsor Statement](Sponsor_Statement.md) |
-| If the applicant is proposing to gain experience in a clinical trial as part of his or her research training, is there evidence of the appropriate expertise, experience, resources, and ability on the part of the sponsor(s) to guide the applicant during the clinical trial research experience? | [Training Plan](Training_Plan.md), [Research Plan](Research_Strategy.md) |
-| If proposed, will the clinical trial experience contribute to the proposed project and/or the applicant’s research training? | [Candidate Introduction](Candidate.md), [Training Plan](Training_Plan.md), [Research Plan](Research_Strategy.md)|
+## Criterion 1: Candidate's Goals, Preparedness and Potential
+
+| Sub-criterion | Where to Address It |
+|---|---|
+| Discuss the candidate's previous educational, scientific and professional experience in terms of how it prepares the candidate for the proposed research training plan. Consider the context, for example, the candidate's stage of training and the opportunities available. | [Candidate's Goals, Preparedness, and Potential](Candidate.md), [Sponsor's Statement](Sponsor_Statement.md),[Letters of Reference](Supporting_Documents.md#letters-of-reference)  |
+| Assess whether the candidate and sponsor statements as well as the referee letters provide convincing evidence that the candidate possesses qualities (such as scientific understanding, creativity, curiosity, resourcefulness and drive) that will improve the likelihood of a successful research training outcome. | [Candidate's Goals, Preparedness, and Potential](Candidate.md), [Sponsor's Statement](Sponsor_Statement.md), [Letters of Reference](Supporting_Documents.md#letters-of-reference) |
+| Consider the candidate's potential to benefit from the fellowship research training plan and to transition to the next career stage in the biomedical research workforce. | [Candidate's Goals, Preparedness, and Potential](Candidate.md), [Training Activities and Timeline](Training_Plan.md) |
+
+## Criterion 2: Research Training Plan
+
+| Sub-criterion | Where to Address It |
+|---|---|
+| Assess the rigor and feasibility of the research training project and how completion of the project will contribute to the development of the candidate as a research scientist. | [Aims](Aims.md), [Research Training Project Strategy](Research_Strategy.md) |
+| Evaluate the goals of the overall research training plan and the extent to which the plan will facilitate the attainment of the goals. | [Training Activities and Timeline](Training_Plan.md) |
+| Discuss whether the research training plan identifies areas of needed development and contains appropriate, realistic activities and milestones to address those needs. | [Training Activities and Timeline](Training_Plan.md) |
+| Consider whether the sponsor(s), scientific environment, facilities and resources are adequate and appropriate for the proposed research training plan. | [Sponsor's Statement](Sponsor_Statement.md), [Facilities and Environment](Supporting_Documents.md#facilities-and-environment) |
+| *(Clinical trials only)* If the candidate is proposing to gain experience in a clinical trial as part of his or her research training, is there evidence of the appropriate expertise, experience, resources, and ability on the part of the sponsor(s) to guide the applicant during the clinical trial research experience? | [Training Activities and Timeline](Training_Plan.md), [Research Training Project Strategy](Research_Strategy.md) |
+
+## Criterion 3: Commitment to Candidate, Mentoring and Training Environment
+
+| Sub-criterion | Where to Address It |
+|---|---|
+| Assess whether the sponsor(s) presents a strong mentoring plan appropriate to the needs and goals of the candidate. | [Sponsor's Statement](Sponsor_Statement.md), [Candidate's Goals, Preparedness, and Potential](Candidate.md) |
+| Evaluate the extent to which the sponsor(s) and organizational commitment is appropriate, sufficient and in alignment with the candidate's research training plan. | [Sponsor's Statement](Sponsor_Statement.md), [Facilities and Environment](Supporting_Documents.md#facilities-and-environment) |
+| Consider whether the level of the commitment provided will contribute to the successful completion of the proposed plan and allow the candidate to advance to a productive career in the biomedical research workforce. | [Sponsor's Statement](Sponsor_Statement.md) |
+| *(Clinical trials only)* If proposed, will the clinical trial experience contribute to the proposed project and/or the candidate's research training? | [Sponsor's Statement](Sponsor_Statement.md) |
+
+## Additional Review Considerations (not scored separately)
+
+| Item | Where to Address It |
+|---|---|
+| Training in the Responsible Conduct of Research (format, subject matter, faculty participation, minimum 8 contact hours, recurring frequency) | [Responsible Conduct of Research Statement](Supporting_Documents.md#training-in-responsible-conduct-of-research) |
+| Protections for Human Subjects | [Protection of Human Subjects](Supporting_Documents.md#human-subjects) |
+| Vertebrate Animals | [Vertebrate Animals](Supporting_Documents.md#vertebrate-animals) |
+| Authentication of Key Biological and/or Chemical Resources | [Supporting Documents](Supporting_Documents.md#authentication-of-resources) |
+| Resource Sharing Plans | [Supporting Documents](Supporting_Documents.md#resource-sharing-plans) |
