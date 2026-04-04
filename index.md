@@ -36,10 +36,10 @@ The schedule is based on a presumed cycle 1 submission date of **August 8th, 202
 | ------------- | ------------- |
 | [Orientation and Planning](Timeline.md)  | May 16th |
 | [Candidate Introduction](Candidate.md) and [Budget](Budget.md)| May 30th | 
-| [Training Plan](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) | June 13th | 
-| [Aims Page and Abstract](Aims.md) |  June 27th | 
-| [Supporting Documentation](Supporting_Documents) | July 11th |
-| [Research Strategy](Research_Strategy.md)| July 25th |
+| [Training Activities and Timeline](Training_Plan.md) and [Sponsor(s) Commitment](Sponsor_Statement.md) | June 13th |
+| [Aims Page and Abstract](Aims.md) |  June 27th |
+| [Supporting Documentation](Supporting_Documents.md) | July 11th |
+| [Research Training Project Strategy](Research_Strategy.md)| July 25th |
 
 These materials are free for anyone to use without attribution and are provided under a [CC-0 License](LICENSE.md)
 

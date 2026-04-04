@@ -7,9 +7,9 @@ Start by downloading the [Candidate Information](Documents/Candidate_Worksheet.d
 This session we will work on two documents related to introducing yourself to the reviewers.
 
 * **Biosketch**, is needed for you and for all key personnel including your sponsor(s) and key collaborators.  NIH now uses a [Biographical Sketch Common Form](https://grants.nih.gov/grants-process/write-application/forms-directory/biographical-sketch-common-form) for all applicants (no separate fellowship biosketch).  Biosketches must be prepared using **SciENcv** and require an **ORCID ID** linked to your eRA Commons profile.
-* **Applicant's Background** is part of the training plan, the document called *Candidate’s Goals, Preparedness, and Potential.* 
+* **Candidate’s Goals, Preparedness, and Potential** introduces you to the reviewers and covers your background, training goals, and career trajectory.
 
-We will work on the [Training Activities and Timeline](Training_Plan.md) and [Sponsor's Statement](Sponsor_Statement.md) next session.
+We will work on the [Training Activities and Timeline](Training_Plan.md) and [Sponsor(s) Commitment](Sponsor_Statement.md) next session.
 
 ## Review Criteria (NRSA)
 
@@ -47,7 +47,7 @@ See the full [NRSA Review Criteria](Review_Criteria_NRSA.md) for context. The cr
 
 ![Puzzle](https://upload.wikimedia.org/wikipedia/commons/6/66/Jigsaw_puzzle_01_by_Scouten.jpg)
 
-Think of the grant as a partially complete puzzle.  First you want to describe what pieces are in place.  This is who you are as a candidate and shoule be in the introduction.  Then there should be a clear description of what *you* think the puzzle will look like when its complete.  This is you as a trianed scientist after this training is complete.  The missing pieces should be what goes in your training plan, and should be obvious from the descriptions of you now, and what you hope to become.
+Think of the grant as a partially complete puzzle.  First you want to describe what pieces are in place.  This is who you are as a candidate and should be in the introduction.  Then there should be a clear description of what *you* think the puzzle will look like when its complete.  This is you as a trained scientist after this training is complete.  The missing pieces should be what goes in your training plan, and should be obvious from the descriptions of you now, and what you hope to become.
 
 It is best to write this document along with the personal statement section of your biosketch.  Both documents should highlight your background and accomplishments to date. 
 

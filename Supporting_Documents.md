@@ -59,7 +59,7 @@ If you are not using vertebrate animals, state this explicitly.
 
 ### Training in Responsible Conduct of Research
 
-Must describe in one page each of the following aspects of your RCR instruction:
+Your RCR instruction description (1 page total) must address the following five aspects:
 
 1. **Format** – the required format of instruction (face-to-face lectures, coursework, and/or real-time discussion groups; online-only instruction is not acceptable)
 2. **Subject Matter** – the breadth of subject matter (e.g., conflict of interest, authorship, data management, human subjects and animal use, laboratory safety, research misconduct, research ethics)

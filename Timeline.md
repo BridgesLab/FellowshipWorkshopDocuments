@@ -29,15 +29,15 @@ You will need to write several sections that will be compiled into the final gra
 | [Project Narrative](Aims.md)	| Three sentences | | 
 | Introduction to Resubmission or Revision Application (when applicable) | 1 page | Only if revising | 
 | [Candidate’s Goals, Preparedness, and Potential](Candidate.md) | 3 pages  | |
-  [Training Activities and Timeline](Training_Plan.md) | 3 pages |  |
-| [Research Training Project Specific Aims](Aims.md)	| 1 page | | 
-| [Research Trainign Project Strategy](Research_Plan.md)	| 6 pages | | 
+| [Training Activities and Timeline](Training_Plan.md) | 3 pages |  |
+| [Research Training Project Specific Aims](Aims.md)	| 1 page | |
+| [Research Training Project Strategy](Research_Strategy.md)	| 6 pages | |
 | [Budget and Justification](Budget.md) | no explicit limit, should be ~ 1 page | |
-| [Training in the Responsible Conduct of Research](Supporting_Documents.md)	| | 
-| [Sponsor(s) Commitment](Sponsor_Statement.md)	| 6 pages | | 
-| [Letters of Support from Collaborators, Contributors, and Consultants](Supporting_Documents.md)	 | | 
-| Description of Institutional Environment and Commitment to Training | 2 pages | 
-| [Biographical Sketches](Candidate.md) | 5 pages | Candidate and all key personnel |  	
+| [Training in the Responsible Conduct of Research](Supporting_Documents.md#training-in-responsible-conduct-of-research)	| 1 page | |
+| [Sponsor(s) Commitment](Sponsor_Statement.md)	| 6 pages | |
+| [Letters of Support from Collaborators, Contributors, and Consultants](Supporting_Documents.md#letters-of-support)	 | 6 pages | |
+| [Institutional Environment Description](Supporting_Documents.md#facilities-and-environment) | 2 pages |
+| [Biographical Sketches](Candidate.md#your-biosketch) | 5 pages each | Candidate and all key personnel; prepared via SciENcv |  	
 
 ## Timeline for Writing and Review
 

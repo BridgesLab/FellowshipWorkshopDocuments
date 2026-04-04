@@ -32,11 +32,10 @@ Key structural changes:
   - Remove the 7 old sub-questions under "Review Criteria (NRSA - Need to Update for New Criteria)"
   - Replace with relevant sub-questions from the new **Candidate's Goals, Preparedness, and Potential** criterion
 
-- [ ] **`Candidate.md`** — Update biosketch guidance for NIH Common Form
-  - Line 9: Remove "Make sure to use the fellowship biosketch" — no longer a separate fellowship form; update link to [Biographical Sketch Common Form](https://grants.nih.gov/grants-process/write-application/forms-directory/biographical-sketch-common-form)
-  - Line 48: Remove link to old forms-h biosketch instructions
-  - Line 109: Update Resources entry — "fellowship biosketch" language and old link both need replacing
-  - Add that biosketches must now be prepared via **SciENcv** and require a linked **ORCID ID**
+- [x] **`Candidate.md`** — Update biosketch guidance for NIH Common Form
+  - Updated to reference Biographical Sketch Common Form (no separate fellowship biosketch)
+  - SciENcv and ORCID ID requirements noted
+  - Old forms-h biosketch instructions link removed
 
 - [x] **`Training_Plan.md`** — Replace old review criteria with new criteria language
   - Remove the 12 old sub-questions under "Review Criteria (Need to Update for new PA)"
