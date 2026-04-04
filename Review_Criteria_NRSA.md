@@ -1,3 +1,11 @@
+---
+layout: default
+title: "NRSA Review Criteria"
+schema_type: LearningResource
+schema_description: "Complete NIH NRSA review criteria for F30, F31, and F32 fellowship applications under Forms-I (PA-25-422, PA-25-426, PA-25-423), including all three scored criteria and additional review considerations."
+schema_teaches: "NIH NRSA review criteria, fellowship scoring, F30 F31 F32 review, reviewer expectations, Forms-I"
+---
+
 # Review Criteria (NRSA)
 
 These criteria apply equally to F30 ([PA-25-426](https://grants.nih.gov/grants/guide/pa-files/PA-25-426.html)), F31 ([PA-25-422](https://grants.nih.gov/grants/guide/pa-files/PA-25-422.html)), and F32 ([PA-25-423](https://grants.nih.gov/grants/guide/pa-files/PA-25-423.html)). There are no differences in the scored criteria across award types. Items marked *(Clinical trials only)* apply only to applications proposing clinical trial experience as part of the research training.

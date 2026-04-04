@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Abstract and Specific Aims"
+schema_type: LearningResource
+schema_description: "Guidance on writing the Project Summary, Project Narrative, and Research Training Project Specific Aims for NIH NRSA fellowship applications."
+schema_teaches: "NIH specific aims, project summary, project narrative, F30 F31 F32 aims page, fellowship abstract"
+---
+
 # Abstract and Specific Aims Pages
 
 The worksheet for this week can be found at [Aims Worksheet](Documents/Aims_Worksheet.docx) and the slides are available at [Aims Slides](Documents/Slides/Aims%20and%20Abstract.pptx)

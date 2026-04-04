@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Candidate's Goals, Preparedness, and Potential"
+schema_type: LearningResource
+schema_description: "Guidance on writing the Candidate section and Biographical Sketch for NIH NRSA fellowship applications, including defining career goals, training needs, and using SciENcv."
+schema_teaches: "NIH fellowship candidate section, biographical sketch, SciENcv, ORCID, career goals, F30 F31 F32"
+---
+
 # Candidate Information
 
 Start by downloading the [Candidate Information](Documents/Candidate_Worksheet.docx) worksheet and answering those questions.  You may need to set up a meeting to get some opinions from your mentors.

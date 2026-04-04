@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Sponsor(s) Commitment"
+schema_type: LearningResource
+schema_description: "Guidance on writing the Sponsor(s) Commitment sections A–E for NIH NRSA fellowship applications, covering mentoring approach, prior training record, research environment, and candidate assessment."
+schema_teaches: "NIH fellowship sponsor statement, mentor commitment, F30 F31 F32 sponsor sections, mentoring plan"
+---
+
 # Sponsor(s) Commitment
 
 The Sponsor(s) Commitment is a **6-page** document submitted by your sponsor (and each co-sponsor, if applicable) as a single PDF with all statements appended together. It is distinct from your own [Training Activities and Timeline](Training_Plan.md) but should be tightly coordinated with it — the sponsor's framing of your training needs, goals, and environment should reinforce what you have written, not contradict or simply repeat it.

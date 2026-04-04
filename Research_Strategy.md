@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Research Training Project Strategy"
+schema_type: LearningResource
+schema_description: "Guidance on writing the 6-page Research Training Project Strategy for NIH NRSA fellowship applications, covering scientific premise, experimental approaches, feasibility, and alternative strategies."
+schema_teaches: "NIH fellowship research strategy, scientific premise, experimental approach, F30 F31 F32 research plan, rigor and feasibility"
+---
+
 # Research Training Project Strategy
 
 ## Documents for this Session

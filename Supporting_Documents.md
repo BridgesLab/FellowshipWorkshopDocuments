@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Supporting Documents"
+schema_type: LearningResource
+schema_description: "Guidance on preparing supporting documents for NIH NRSA fellowship applications: RCR training, letters of reference, letters of support, facilities description, human subjects, and vertebrate animals."
+schema_teaches: "NIH fellowship supporting documents, letters of reference, responsible conduct of research, institutional environment, human subjects, vertebrate animals, F30 F31 F32"
+---
+
 # Supporting Documents
 
 Slides for today can be found [here](Documents/Slides/Supporting%20Documents.pptx).

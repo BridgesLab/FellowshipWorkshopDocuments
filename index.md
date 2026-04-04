@@ -1,6 +1,11 @@
 ---
 layout: default
-title: FellowshipWorkshopDocuments
+title: "NIH Fellowship Writing Workshop"
+schema_type: Course
+schema_description: "A structured workshop supporting biomedical trainees in writing NIH NRSA F30, F31, and F32 fellowship applications, sponsored by the Elizabeth Weiser Caswell Diabetes Institute at the University of Michigan."
+schema_teaches: "NIH NRSA fellowship application writing, F30 F31 F32 grant writing, research training plan, specific aims, sponsor statement, candidate background"
+schema_start: "2026-05-16"
+schema_end: "2026-07-25"
 ---
 
 [![Caswell Diabetes Institute Logo](cdi-logo.svg)](https://diabetes.med.umich.edu/)

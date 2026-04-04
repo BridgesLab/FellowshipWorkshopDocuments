@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Budget Justification"
+schema_type: LearningResource
+schema_description: "Guidance on preparing the budget justification for NIH NRSA fellowship applications, including current stipend rates, institutional allowances, and tuition/fees."
+schema_teaches: "NIH fellowship budget, NRSA stipend rates, F31 F32 budget justification, institutional allowance"
+---
+
 # Budget Justification
 
 Use this [worksheet](https://github.com/BridgesLab/FellowshipWorkshopDocuments/raw/refs/heads/2025-Jan-CDI/Documents/Budget_Worksheet.docx) to start your budget.

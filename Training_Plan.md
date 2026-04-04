@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Training Activities and Timeline"
+schema_type: LearningResource
+schema_description: "Guidance on writing the Training Activities and Timeline section for NIH NRSA fellowship applications, including training goals, mentorship team, and milestone planning."
+schema_teaches: "NIH fellowship training plan, research training activities, mentorship, training timeline, F30 F31 F32"
+---
+
 # Training Plan
 
 The worksheet to prepare to write your training plan is [here](Documents/Training_Plan_Worksheet.docx).  The slides for this session can be found [here](Documents/Slides/Training%20Goals.pptx).

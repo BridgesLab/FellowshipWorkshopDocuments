@@ -1,1 +1,79 @@
 <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace: 'index.html', '' }}" />
+
+{% if page.schema_type == "Course" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.schema_description | jsonify }},
+  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  "provider": {
+    "@type": "Organization",
+    "name": "Elizabeth Weiser Caswell Diabetes Institute",
+    "url": "https://diabetes.med.umich.edu/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "courseMode": "blended",
+    "location": {
+      "@type": "Place",
+      "name": "University of Michigan",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ann Arbor",
+        "addressRegion": "MI",
+        "addressCountry": "US"
+      }
+    },
+    "startDate": "{{ page.schema_start }}",
+    "endDate": "{{ page.schema_end }}"
+  }{% if page.schema_teaches %},
+  "teaches": {{ page.schema_teaches | jsonify }}{% endif %}
+}
+</script>
+{% elsif page.schema_type == "LearningResource" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LearningResource",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.schema_description | jsonify }},
+  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  "isPartOf": {
+    "@type": "Course",
+    "name": "Fellowship Writing Workshop",
+    "url": "{{ site.url }}{{ site.baseurl }}/"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Elizabeth Weiser Caswell Diabetes Institute",
+    "url": "https://diabetes.med.umich.edu/"
+  }{% if page.schema_teaches %},
+  "teaches": {{ page.schema_teaches | jsonify }}{% endif %}
+}
+</script>
+{% endif %}
+
+{% if page.url != "/" and page.url != "/index.html" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Fellowship Writing Workshop",
+      "item": "{{ site.url }}{{ site.baseurl }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ page.title | jsonify }},
+      "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }
+  ]
+}
+</script>
+{% endif %}

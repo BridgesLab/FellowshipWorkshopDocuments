@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Orientation and Planning"
+schema_type: LearningResource
+schema_description: "Introduction to the NIH NRSA fellowship writing workshop: which fellowship to apply for, application components and page limits, and the writing and review timeline."
+schema_teaches: "NIH fellowship selection, F30 F31 F32 application structure, grant writing timeline"
+---
+
 # Orientation and Planning
 
 This session will serve as an introduction and planning section, as well as a panel discussion from prior F31 recipients.  Slides for this session can be found [here](Documents/Slides/Orientation.pptx).
