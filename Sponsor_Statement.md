@@ -1,11 +1,8 @@
-# Sponsor's Statement
+# Sponsor(s) Commitment
 
-The sponsor's statement contains two key pieces of information.
+The Sponsor(s) Commitment is a **6-page** document submitted by your sponsor (and each co-sponsor, if applicable) as a single PDF with all statements appended together. It is distinct from your own [Training Activities and Timeline](Training_Plan.md) but should be tightly coordinated with it — the sponsor's framing of your training needs, goals, and environment should reinforce what you have written, not contradict or simply repeat it.
 
-1.  The sponsor's training record and ability to support the fellow
-2.  The sponsor's view of the training plan
-
-The training plan as described by the sponsor should be the same as your [Training Plan](Training_Plan.md), but this is a good opportunity to use this as a second opportunity to frame what you need for training, why it matters, and how it will be provided.  
+The statement covers five areas: the sponsor's mentoring approach, their track record of mentoring, their specific commitment to this candidate, the research training environment, and their assessment of the candidate's potential.
 
 ## Review Criteria (NRSA)
 
@@ -27,35 +24,51 @@ See the full [NRSA Review Criteria](Review_Criteria_NRSA.md) for context. The cr
 * Consider whether the level of the commitment provided will contribute to the successful completion of the proposed plan and allow the candidate to advance to a productive career in the biomedical research workforce.
 * *(Clinical trials only)* If proposed, will the clinical trial experience contribute to the proposed project and/or the candidate’s research training? 
 
-## Suggested Format
+## Required Sections
 
-Based on instructions [here](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-e/general/g.430-phs-fellowship-supplemental-form.htm#9) there should be the following sections (below is from that link)
+Based on the [Forms-I instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/fellowship-forms-i.pdf) (see also [G.430 PHS Fellowship Supplemental Form](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/general/g.430-phs-fellowship-supplemental-form.htm)), the Sponsor(s) Commitment must include the following five sections:
 
-### A. Research Support Available
-In a table, list all current and pending research and research training support specifically available to the applicant for this particular training experience. Include funding source, complete identifying number, title of the research or training program, name of the PD/PI, start and end dates, and the amount of the award. If the sponsor's research support will end prior to the end of the proposed training period, the sponsor should describe a contingency plan for how the fellow's research will be supported.  The role of the sponsor/co-sponsor in the Research Training Plan should be described. If one or more co-sponsors is proposed, this plan should describe the role of each sponsor and how they will communicate and coordinate their efforts to mentor the applicant effectively.
+### A. Mentoring Approach and Candidate Mentoring Plan
 
-### B. Sponsor's/Co-Sponsor's Previous Fellows/Trainees
-State the total number of predoctoral and postdoctoral individuals previously sponsored. Select up to five that are representative, and for those five, provide information on their time spent in the lab, their present employing organizations, and their present position titles or occupations.  Note if they have recieved any fellowships (F or K awards).
+Describe your mentoring approach and the specific mentoring plan for this candidate to support their career advancement. The plan must be tailored to the candidate's overall training goals — going beyond simply providing access to a research environment. Effective mentoring to address includes:
 
-### C. Training Plan, Environment, Research Facilities
-The applicant's Research Training Plan should be individualized for the applicant, keeping in mind the candidate's strengths and any gaps in needed skills. The Research Training Plan should be designed to enhance both research and clinical training (if applicable).
+* Enhancing scientific understanding
+* Promoting professional development
+* Maintaining regular communication and aligning expectations
+* Fostering the candidate's independence as a researcher
 
-Describe the Research Training Plan that you have developed specifically for the fellowship applicant. Be sure to include the following points:
+### B. Prior Commitment to Training and Mentoring
 
-* Include items such as classes, seminars, opportunities for interaction with other groups and scientists, and any professional skills development opportunities.
-* Describe the research environment and available research facilities and equipment.
-* Indicate the relationship of the proposed research training to the applicant's career goals.
-* Describe the skills and techniques that the applicant will learn. Relate these to the applicant's career goals.
-* The information contained in the "Training Plan, Environment, Research Facilities" section of the Sponsor's and Co-sponsors' Statements should be coordinated with information provided under the Description of Institutional Environment and Commitment to Training attachment below.
+Demonstrate your track record of training and mentoring. Provide narrative examples from **2–5 recent trainees** at the same career level as the candidate, describing the individualized training and mentoring you provided and the impact on each trainee's scientific, educational, or career development. A simple list of former trainees and outcomes is not sufficient. Early-career sponsors may include examples from informal mentoring during their own training.
 
-The Research Training Plan should facilitate the applicant's transition to the next stage of his/her career. Sponsors and co-sponsors should discuss this aspect of the applicant's training as well.
+### C. Commitment to the Candidate's Research Training Plan
 
-### D. Number of Fellows/Trainees to be Supervised During the Fellowship
-Indicate how many pre- and/or post- doctoral fellows/trainees the Sponsor/Co-sponsor is expected to supervise during the award period. Co-sponsor statements must also include this information.
+Confirm your specific commitment to this candidate. Include:
 
-### E. Applicant's Qualifications and Potential for a Research Career
-Describe how the fellowship applicant is suited for this research training opportunity based on his/her academic record and research experience level. Include information about how the Research Training Plan, and your own expertise as the sponsor or co-sponsor, will assist in producing an independent researcher.  If the applicant is proposing to gain experience in a clinical trial as part of his or her research training, then the sponsor or co-sponsor should include information in the statement to document leadership of the clinical trial (in addition to the information above).
+* The frequency, duration, and nature of meetings with the candidate throughout the training period
+* How many other trainees and scientists you will be supervising during the award period, to demonstrate the candidate will receive consistent, individualized attention
 
-## Letters of Support 
+If co-sponsors are proposed, each must describe their role and how they will coordinate their mentoring efforts.
 
-In addition to this sponsors statement, you will need letters of support from key collaborators and resources (for more details on this see [Supporting Documents](Supporting_Documents)).  This should include both scientific letters of support, and potentially other mentors (such as review committee members).  These are separate from your letters of reference which are submitted anonymously and separate from these letters.
+### D. Research Training Environment
+
+Describe how the research environment meets this candidate's training needs. Coordinate with (but do not duplicate) the [Facilities and Environment](Supporting_Documents.md#facilities-and-environment) section. Include:
+
+* How the environment supports the candidate's development and career goals
+* Organizational facilities, equipment, and infrastructure
+* Relevant training programs, seminars, journal clubs, and professional development opportunities
+* Opportunities for publication and presentation of research findings
+
+### E. Candidate's Potential
+
+Provide your assessment of the candidate's potential for a productive research career. Include:
+
+* Specific examples of personal characteristics (skills, traits, attitudes) that support career advancement
+* Areas where the candidate needs further development, and how the training plan addresses them
+* An overall assessment of the candidate's preparedness and likelihood of achieving their training goals
+
+*(Clinical trials only)* If the candidate will gain experience in a clinical trial as part of their training, document your leadership of that trial and your ability to guide the candidate through the experience.
+
+## Letters of Support and Reference
+
+In addition to the Sponsor(s) Commitment, you will need both [Letters of Support](Supporting_Documents.md#letters-of-support) and [Letters of Reference](Supporting_Documents.md#letters-of-reference) — these are distinct documents with different submission processes. See the [Supporting Documents](Supporting_Documents.md) page for full guidance on each.
