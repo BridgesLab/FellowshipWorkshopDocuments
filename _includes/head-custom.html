@@ -40,11 +40,7 @@
   "name": {{ page.title | jsonify }},
   "description": {{ page.schema_description | jsonify }},
   "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
-  "isPartOf": {
-    "@type": "Course",
-    "name": "Fellowship Writing Workshop",
-    "url": "{{ site.url }}{{ site.baseurl }}/"
-  },
+  "isPartOf": "{{ site.url }}{{ site.baseurl }}/",
   "provider": {
     "@type": "Organization",
     "name": "Elizabeth Weiser Caswell Diabetes Institute",
