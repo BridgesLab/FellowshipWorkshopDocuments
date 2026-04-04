@@ -57,7 +57,7 @@ Very early in the application you should give the reviewer a clear sense of who 
 
 ### Defining Yourself Now
 
-To be a recipient of funding you should be advancing to candidacy, so describe your past and key accomplishments up to and including advancing to candidacy.  This should include brief descriptions of:
+To be a recipient of funding you should be advancing to candidacy (for a F30/F31), so describe your past and key accomplishments up to and including advancing to candidacy.  For a postdoctoral fellow you should describe your doctoral training.  This should include brief descriptions of:
 
 * Your motivation for a career in research.
 * Undergraduate education and research experiences.  

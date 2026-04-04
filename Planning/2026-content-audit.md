@@ -61,11 +61,13 @@ Key structural changes:
 
 ### Manual Review Required
 
-- [ ] **`Documents/Images/`** — Review workshop diagrams and timeline images for accuracy against new PA structure; source files are Adobe Illustrator PDFs with PNG exports. Images referenced in the site include:
-  - `Workshop Structure.png` / `.ai` — used in `index.md`
-  - `Workshop Timeline.png` / `.ai` — used in `Timeline.md`
-  - `Aims Structure.png` / `.ai` — used in `Aims.md`
-  - `NRSA_Criteria_Changes.png` — used in `Documents/F31_PAF_Comparason.md`; criteria diagram may need updating to reflect new 3-criterion system
+- [x] **`Documents/Images/`** — Review workshop diagrams and timeline images for accuracy against new PA structure; source files are Adobe Illustrator PDFs with PNG exports.
+  - `Workshop Structure.png` — no changes needed
+  - `Aims Structure.png` — no changes needed
+  - `NRSA_Criteria_Changes.png` — no changes needed (correctly shows old→new criteria transition)
+  - `Workshop Timeline.png` — updated session names; "Sponsor Statement" colloquial name retained intentionally
+  - `Training Plan Documents.pdf/png` — updated: "Selection of Sponsor and Institution" replaced with "Institutional Environment Description"; "Sponsor's Commitment" / "Institutional Environment Description" labels now correct
+  - [ ] Minor: left circle label reads "Sponsor's Commitment" — consider updating to "Sponsor(s) Commitment" for consistency with text
 
 ---
 

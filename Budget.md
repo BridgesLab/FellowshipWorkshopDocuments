@@ -24,7 +24,7 @@ State the stipend amount requested, referencing the current [NIH NRSA stipend ra
 
 ### Institutional Allowance
 
-Specify the institutional allowance amount (currently $4,750/year for F31, $12,400/year for F32).  Briefly describe how these funds will be used (*e.g.*, health insurance, research-related expenses, travel to scientific meetings, books, and supplies).
+Specify the institutional allowance amount (currently $4,750/year for F31, $12,400/year for F32; see [NOT-OD-26-044](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-044.html)).  Briefly describe how these funds will be used (*e.g.*, health insurance, research-related expenses, travel to scientific meetings, books, and supplies).
 
 ### Childcare Costs (if applicable)
 
