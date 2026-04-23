@@ -39,12 +39,12 @@ The schedule is based on a presumed cycle 1 submission date of **August 8th, 202
 
 | Session | Date | 
 | ------------- | ------------- |
-| [Orientation and Planning](Timeline.md)  | May 16th |
-| [Candidate Background](Candidate.md) and [Budget](Budget.md)| May 30th |
-| [Training Plan](Training_Plan.md) and [Sponsor Statement](Sponsor_Statement.md) | June 13th |
-| [Summary of Research](Aims.md) |  June 27th |
-| [Supporting Documentation](Supporting_Documents.md) | July 11th |
-| [Research Plan](Research_Strategy.md)| July 25th |
+| [Orientation and Planning](Timeline.md)  | May 13th |
+| [Candidate Background](Candidate.md) and [Budget](Budget.md)| May 27th |
+| [Training Plan](Training_Plan.md) and [Sponsor Statement](Sponsor_Statement.md) | June 10th |
+| [Summary of Research](Aims.md) |  June 24th |
+| [Supporting Documentation](Supporting_Documents.md) | July 8th |
+| [Research Plan](Research_Strategy.md)| July 22th |
 
 These materials are free for anyone to use without attribution and are provided under a [CC-0 License](LICENSE.md)
 
