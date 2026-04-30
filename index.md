@@ -23,7 +23,7 @@ The main goal is to support trainees in writing F30, F31 and F32 applications, s
 
 # Organization and Plan
 
-We will host workshops every other week with a brief faculty talk followed by peer review of each other's documents.  We will meet *in person* at a location to be determined.  Lunch will be provided.
+We will host workshops every other week with a brief faculty talk followed by peer review of each other's documents.  We will meet *in person* at NCRC B20 Room 1814 at noon.  Lunch will be provided.
 
 ## Workshop structure
 
